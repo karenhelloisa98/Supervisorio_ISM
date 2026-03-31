@@ -1,6 +1,5 @@
 import os
 import sys
-import random
 import pyqtgraph as pg
 import numpy as np
 from collections import deque
