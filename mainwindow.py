@@ -8,12 +8,9 @@ from typing import List, Dict, Optional
 from datetime import datetime
 from PyQt5 import uic
 from PyQt5.QtGui import QIcon
-from PyQt5.QtWidgets import QApplication, QMainWindow
+from PyQt5.QtWidgets import QMainWindow
 from PyQt5.QtCore import Qt, QTimer, QTime, QDate
-from PyQt5.QtWidgets import (
-    QWidget, QVBoxLayout, QHBoxLayout, QLabel, QPushButton,
-    QGridLayout, QMessageBox, QFrame, QDoubleSpinBox, QComboBox,
-    QScrollArea, QStackedWidget)
+from PyQt5.QtWidgets import (QMessageBox)
 
 def resource_path(relative_path: str) -> str:
     base = getattr(sys, "_MEIPASS", os.path.abspath("."))
