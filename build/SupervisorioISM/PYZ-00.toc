@@ -1,0 +1,2560 @@
+('C:\\Users\\Rafael '
+ 'Cabral\\Desktop\\Supervisorio-ISM\\build\\SupervisorioISM\\PYZ-00.pyz',
+ [('PyQt5',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\PyQt5\\__init__.py',
+   'PYMODULE'),
+  ('PyQt5.uic',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\PyQt5\\uic\\__init__.py',
+   'PYMODULE'),
+  ('PyQt5.uic.Compiler',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\PyQt5\\uic\\Compiler\\__init__.py',
+   'PYMODULE'),
+  ('PyQt5.uic.Compiler.compiler',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\PyQt5\\uic\\Compiler\\compiler.py',
+   'PYMODULE'),
+  ('PyQt5.uic.Compiler.indenter',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\PyQt5\\uic\\Compiler\\indenter.py',
+   'PYMODULE'),
+  ('PyQt5.uic.Compiler.misc',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\PyQt5\\uic\\Compiler\\misc.py',
+   'PYMODULE'),
+  ('PyQt5.uic.Compiler.proxy_metaclass',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\PyQt5\\uic\\Compiler\\proxy_metaclass.py',
+   'PYMODULE'),
+  ('PyQt5.uic.Compiler.qobjectcreator',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\PyQt5\\uic\\Compiler\\qobjectcreator.py',
+   'PYMODULE'),
+  ('PyQt5.uic.Compiler.qtproxies',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\PyQt5\\uic\\Compiler\\qtproxies.py',
+   'PYMODULE'),
+  ('PyQt5.uic.Loader',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\PyQt5\\uic\\Loader\\__init__.py',
+   'PYMODULE'),
+  ('PyQt5.uic.Loader.loader',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\PyQt5\\uic\\Loader\\loader.py',
+   'PYMODULE'),
+  ('PyQt5.uic.Loader.qobjectcreator',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\PyQt5\\uic\\Loader\\qobjectcreator.py',
+   'PYMODULE'),
+  ('PyQt5.uic.exceptions',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\PyQt5\\uic\\exceptions.py',
+   'PYMODULE'),
+  ('PyQt5.uic.icon_cache',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\PyQt5\\uic\\icon_cache.py',
+   'PYMODULE'),
+  ('PyQt5.uic.objcreator',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\PyQt5\\uic\\objcreator.py',
+   'PYMODULE'),
+  ('PyQt5.uic.port_v3',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\PyQt5\\uic\\port_v3\\__init__.py',
+   'PYMODULE'),
+  ('PyQt5.uic.port_v3.as_string',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\PyQt5\\uic\\port_v3\\as_string.py',
+   'PYMODULE'),
+  ('PyQt5.uic.port_v3.ascii_upper',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\PyQt5\\uic\\port_v3\\ascii_upper.py',
+   'PYMODULE'),
+  ('PyQt5.uic.port_v3.proxy_base',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\PyQt5\\uic\\port_v3\\proxy_base.py',
+   'PYMODULE'),
+  ('PyQt5.uic.port_v3.string_io',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\PyQt5\\uic\\port_v3\\string_io.py',
+   'PYMODULE'),
+  ('PyQt5.uic.properties',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\PyQt5\\uic\\properties.py',
+   'PYMODULE'),
+  ('PyQt5.uic.uiparser',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\PyQt5\\uic\\uiparser.py',
+   'PYMODULE'),
+  ('__future__', 'C:\\Python312\\Lib\\__future__.py', 'PYMODULE'),
+  ('_aix_support', 'C:\\Python312\\Lib\\_aix_support.py', 'PYMODULE'),
+  ('_compat_pickle', 'C:\\Python312\\Lib\\_compat_pickle.py', 'PYMODULE'),
+  ('_compression', 'C:\\Python312\\Lib\\_compression.py', 'PYMODULE'),
+  ('_py_abc', 'C:\\Python312\\Lib\\_py_abc.py', 'PYMODULE'),
+  ('_pydatetime', 'C:\\Python312\\Lib\\_pydatetime.py', 'PYMODULE'),
+  ('_pydecimal', 'C:\\Python312\\Lib\\_pydecimal.py', 'PYMODULE'),
+  ('_pyi_rth_utils',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\PyInstaller\\fake-modules\\_pyi_rth_utils\\__init__.py',
+   'PYMODULE'),
+  ('_pyi_rth_utils.qt',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\PyInstaller\\fake-modules\\_pyi_rth_utils\\qt.py',
+   'PYMODULE'),
+  ('_strptime', 'C:\\Python312\\Lib\\_strptime.py', 'PYMODULE'),
+  ('_threading_local', 'C:\\Python312\\Lib\\_threading_local.py', 'PYMODULE'),
+  ('argparse', 'C:\\Python312\\Lib\\argparse.py', 'PYMODULE'),
+  ('ast', 'C:\\Python312\\Lib\\ast.py', 'PYMODULE'),
+  ('asyncio', 'C:\\Python312\\Lib\\asyncio\\__init__.py', 'PYMODULE'),
+  ('asyncio.base_events',
+   'C:\\Python312\\Lib\\asyncio\\base_events.py',
+   'PYMODULE'),
+  ('asyncio.base_futures',
+   'C:\\Python312\\Lib\\asyncio\\base_futures.py',
+   'PYMODULE'),
+  ('asyncio.base_subprocess',
+   'C:\\Python312\\Lib\\asyncio\\base_subprocess.py',
+   'PYMODULE'),
+  ('asyncio.base_tasks',
+   'C:\\Python312\\Lib\\asyncio\\base_tasks.py',
+   'PYMODULE'),
+  ('asyncio.constants',
+   'C:\\Python312\\Lib\\asyncio\\constants.py',
+   'PYMODULE'),
+  ('asyncio.coroutines',
+   'C:\\Python312\\Lib\\asyncio\\coroutines.py',
+   'PYMODULE'),
+  ('asyncio.events', 'C:\\Python312\\Lib\\asyncio\\events.py', 'PYMODULE'),
+  ('asyncio.exceptions',
+   'C:\\Python312\\Lib\\asyncio\\exceptions.py',
+   'PYMODULE'),
+  ('asyncio.format_helpers',
+   'C:\\Python312\\Lib\\asyncio\\format_helpers.py',
+   'PYMODULE'),
+  ('asyncio.futures', 'C:\\Python312\\Lib\\asyncio\\futures.py', 'PYMODULE'),
+  ('asyncio.locks', 'C:\\Python312\\Lib\\asyncio\\locks.py', 'PYMODULE'),
+  ('asyncio.log', 'C:\\Python312\\Lib\\asyncio\\log.py', 'PYMODULE'),
+  ('asyncio.mixins', 'C:\\Python312\\Lib\\asyncio\\mixins.py', 'PYMODULE'),
+  ('asyncio.proactor_events',
+   'C:\\Python312\\Lib\\asyncio\\proactor_events.py',
+   'PYMODULE'),
+  ('asyncio.protocols',
+   'C:\\Python312\\Lib\\asyncio\\protocols.py',
+   'PYMODULE'),
+  ('asyncio.queues', 'C:\\Python312\\Lib\\asyncio\\queues.py', 'PYMODULE'),
+  ('asyncio.runners', 'C:\\Python312\\Lib\\asyncio\\runners.py', 'PYMODULE'),
+  ('asyncio.selector_events',
+   'C:\\Python312\\Lib\\asyncio\\selector_events.py',
+   'PYMODULE'),
+  ('asyncio.sslproto', 'C:\\Python312\\Lib\\asyncio\\sslproto.py', 'PYMODULE'),
+  ('asyncio.staggered',
+   'C:\\Python312\\Lib\\asyncio\\staggered.py',
+   'PYMODULE'),
+  ('asyncio.streams', 'C:\\Python312\\Lib\\asyncio\\streams.py', 'PYMODULE'),
+  ('asyncio.subprocess',
+   'C:\\Python312\\Lib\\asyncio\\subprocess.py',
+   'PYMODULE'),
+  ('asyncio.taskgroups',
+   'C:\\Python312\\Lib\\asyncio\\taskgroups.py',
+   'PYMODULE'),
+  ('asyncio.tasks', 'C:\\Python312\\Lib\\asyncio\\tasks.py', 'PYMODULE'),
+  ('asyncio.threads', 'C:\\Python312\\Lib\\asyncio\\threads.py', 'PYMODULE'),
+  ('asyncio.timeouts', 'C:\\Python312\\Lib\\asyncio\\timeouts.py', 'PYMODULE'),
+  ('asyncio.transports',
+   'C:\\Python312\\Lib\\asyncio\\transports.py',
+   'PYMODULE'),
+  ('asyncio.trsock', 'C:\\Python312\\Lib\\asyncio\\trsock.py', 'PYMODULE'),
+  ('asyncio.unix_events',
+   'C:\\Python312\\Lib\\asyncio\\unix_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_events',
+   'C:\\Python312\\Lib\\asyncio\\windows_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_utils',
+   'C:\\Python312\\Lib\\asyncio\\windows_utils.py',
+   'PYMODULE'),
+  ('base64', 'C:\\Python312\\Lib\\base64.py', 'PYMODULE'),
+  ('bdb', 'C:\\Python312\\Lib\\bdb.py', 'PYMODULE'),
+  ('bisect', 'C:\\Python312\\Lib\\bisect.py', 'PYMODULE'),
+  ('bz2', 'C:\\Python312\\Lib\\bz2.py', 'PYMODULE'),
+  ('cProfile', 'C:\\Python312\\Lib\\cProfile.py', 'PYMODULE'),
+  ('calendar', 'C:\\Python312\\Lib\\calendar.py', 'PYMODULE'),
+  ('charset_normalizer',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\charset_normalizer\\__init__.py',
+   'PYMODULE'),
+  ('charset_normalizer.api',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\charset_normalizer\\api.py',
+   'PYMODULE'),
+  ('charset_normalizer.cd',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\charset_normalizer\\cd.py',
+   'PYMODULE'),
+  ('charset_normalizer.constant',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\charset_normalizer\\constant.py',
+   'PYMODULE'),
+  ('charset_normalizer.legacy',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\charset_normalizer\\legacy.py',
+   'PYMODULE'),
+  ('charset_normalizer.models',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\charset_normalizer\\models.py',
+   'PYMODULE'),
+  ('charset_normalizer.utils',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\charset_normalizer\\utils.py',
+   'PYMODULE'),
+  ('charset_normalizer.version',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\charset_normalizer\\version.py',
+   'PYMODULE'),
+  ('cmd', 'C:\\Python312\\Lib\\cmd.py', 'PYMODULE'),
+  ('code', 'C:\\Python312\\Lib\\code.py', 'PYMODULE'),
+  ('codeop', 'C:\\Python312\\Lib\\codeop.py', 'PYMODULE'),
+  ('colorama',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\colorama\\__init__.py',
+   'PYMODULE'),
+  ('colorama.ansi',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\colorama\\ansi.py',
+   'PYMODULE'),
+  ('colorama.ansitowin32',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\colorama\\ansitowin32.py',
+   'PYMODULE'),
+  ('colorama.initialise',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\colorama\\initialise.py',
+   'PYMODULE'),
+  ('colorama.win32',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\colorama\\win32.py',
+   'PYMODULE'),
+  ('colorama.winterm',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\colorama\\winterm.py',
+   'PYMODULE'),
+  ('concurrent', 'C:\\Python312\\Lib\\concurrent\\__init__.py', 'PYMODULE'),
+  ('concurrent.futures',
+   'C:\\Python312\\Lib\\concurrent\\futures\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures._base',
+   'C:\\Python312\\Lib\\concurrent\\futures\\_base.py',
+   'PYMODULE'),
+  ('concurrent.futures.process',
+   'C:\\Python312\\Lib\\concurrent\\futures\\process.py',
+   'PYMODULE'),
+  ('concurrent.futures.thread',
+   'C:\\Python312\\Lib\\concurrent\\futures\\thread.py',
+   'PYMODULE'),
+  ('configparser', 'C:\\Python312\\Lib\\configparser.py', 'PYMODULE'),
+  ('contextlib', 'C:\\Python312\\Lib\\contextlib.py', 'PYMODULE'),
+  ('contextvars', 'C:\\Python312\\Lib\\contextvars.py', 'PYMODULE'),
+  ('copy', 'C:\\Python312\\Lib\\copy.py', 'PYMODULE'),
+  ('csv', 'C:\\Python312\\Lib\\csv.py', 'PYMODULE'),
+  ('ctypes', 'C:\\Python312\\Lib\\ctypes\\__init__.py', 'PYMODULE'),
+  ('ctypes._aix', 'C:\\Python312\\Lib\\ctypes\\_aix.py', 'PYMODULE'),
+  ('ctypes._endian', 'C:\\Python312\\Lib\\ctypes\\_endian.py', 'PYMODULE'),
+  ('ctypes.macholib',
+   'C:\\Python312\\Lib\\ctypes\\macholib\\__init__.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dyld',
+   'C:\\Python312\\Lib\\ctypes\\macholib\\dyld.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dylib',
+   'C:\\Python312\\Lib\\ctypes\\macholib\\dylib.py',
+   'PYMODULE'),
+  ('ctypes.macholib.framework',
+   'C:\\Python312\\Lib\\ctypes\\macholib\\framework.py',
+   'PYMODULE'),
+  ('ctypes.util', 'C:\\Python312\\Lib\\ctypes\\util.py', 'PYMODULE'),
+  ('ctypes.wintypes', 'C:\\Python312\\Lib\\ctypes\\wintypes.py', 'PYMODULE'),
+  ('daq_worker',
+   'C:\\Users\\Rafael Cabral\\Desktop\\Supervisorio-ISM\\daq_worker.py',
+   'PYMODULE'),
+  ('dataclasses', 'C:\\Python312\\Lib\\dataclasses.py', 'PYMODULE'),
+  ('datetime', 'C:\\Python312\\Lib\\datetime.py', 'PYMODULE'),
+  ('decimal', 'C:\\Python312\\Lib\\decimal.py', 'PYMODULE'),
+  ('decouple',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\decouple.py',
+   'PYMODULE'),
+  ('deprecation',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\deprecation.py',
+   'PYMODULE'),
+  ('difflib', 'C:\\Python312\\Lib\\difflib.py', 'PYMODULE'),
+  ('dis', 'C:\\Python312\\Lib\\dis.py', 'PYMODULE'),
+  ('doctest', 'C:\\Python312\\Lib\\doctest.py', 'PYMODULE'),
+  ('email', 'C:\\Python312\\Lib\\email\\__init__.py', 'PYMODULE'),
+  ('email._encoded_words',
+   'C:\\Python312\\Lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'C:\\Python312\\Lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email._parseaddr', 'C:\\Python312\\Lib\\email\\_parseaddr.py', 'PYMODULE'),
+  ('email._policybase',
+   'C:\\Python312\\Lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.base64mime', 'C:\\Python312\\Lib\\email\\base64mime.py', 'PYMODULE'),
+  ('email.charset', 'C:\\Python312\\Lib\\email\\charset.py', 'PYMODULE'),
+  ('email.contentmanager',
+   'C:\\Python312\\Lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.encoders', 'C:\\Python312\\Lib\\email\\encoders.py', 'PYMODULE'),
+  ('email.errors', 'C:\\Python312\\Lib\\email\\errors.py', 'PYMODULE'),
+  ('email.feedparser', 'C:\\Python312\\Lib\\email\\feedparser.py', 'PYMODULE'),
+  ('email.generator', 'C:\\Python312\\Lib\\email\\generator.py', 'PYMODULE'),
+  ('email.header', 'C:\\Python312\\Lib\\email\\header.py', 'PYMODULE'),
+  ('email.headerregistry',
+   'C:\\Python312\\Lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.iterators', 'C:\\Python312\\Lib\\email\\iterators.py', 'PYMODULE'),
+  ('email.message', 'C:\\Python312\\Lib\\email\\message.py', 'PYMODULE'),
+  ('email.parser', 'C:\\Python312\\Lib\\email\\parser.py', 'PYMODULE'),
+  ('email.policy', 'C:\\Python312\\Lib\\email\\policy.py', 'PYMODULE'),
+  ('email.quoprimime', 'C:\\Python312\\Lib\\email\\quoprimime.py', 'PYMODULE'),
+  ('email.utils', 'C:\\Python312\\Lib\\email\\utils.py', 'PYMODULE'),
+  ('fileinput', 'C:\\Python312\\Lib\\fileinput.py', 'PYMODULE'),
+  ('fnmatch', 'C:\\Python312\\Lib\\fnmatch.py', 'PYMODULE'),
+  ('fractions', 'C:\\Python312\\Lib\\fractions.py', 'PYMODULE'),
+  ('ftplib', 'C:\\Python312\\Lib\\ftplib.py', 'PYMODULE'),
+  ('getopt', 'C:\\Python312\\Lib\\getopt.py', 'PYMODULE'),
+  ('getpass', 'C:\\Python312\\Lib\\getpass.py', 'PYMODULE'),
+  ('gettext', 'C:\\Python312\\Lib\\gettext.py', 'PYMODULE'),
+  ('glob', 'C:\\Python312\\Lib\\glob.py', 'PYMODULE'),
+  ('gzip', 'C:\\Python312\\Lib\\gzip.py', 'PYMODULE'),
+  ('hashlib', 'C:\\Python312\\Lib\\hashlib.py', 'PYMODULE'),
+  ('hightime',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\hightime\\__init__.py',
+   'PYMODULE'),
+  ('hightime._datetime',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\hightime\\_datetime.py',
+   'PYMODULE'),
+  ('hightime._timedelta',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\hightime\\_timedelta.py',
+   'PYMODULE'),
+  ('hmac', 'C:\\Python312\\Lib\\hmac.py', 'PYMODULE'),
+  ('html', 'C:\\Python312\\Lib\\html\\__init__.py', 'PYMODULE'),
+  ('html.entities', 'C:\\Python312\\Lib\\html\\entities.py', 'PYMODULE'),
+  ('http', 'C:\\Python312\\Lib\\http\\__init__.py', 'PYMODULE'),
+  ('http.client', 'C:\\Python312\\Lib\\http\\client.py', 'PYMODULE'),
+  ('http.cookiejar', 'C:\\Python312\\Lib\\http\\cookiejar.py', 'PYMODULE'),
+  ('http.server', 'C:\\Python312\\Lib\\http\\server.py', 'PYMODULE'),
+  ('importlib', 'C:\\Python312\\Lib\\importlib\\__init__.py', 'PYMODULE'),
+  ('importlib._abc', 'C:\\Python312\\Lib\\importlib\\_abc.py', 'PYMODULE'),
+  ('importlib._bootstrap',
+   'C:\\Python312\\Lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'C:\\Python312\\Lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.abc', 'C:\\Python312\\Lib\\importlib\\abc.py', 'PYMODULE'),
+  ('importlib.machinery',
+   'C:\\Python312\\Lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'C:\\Python312\\Lib\\importlib\\metadata\\__init__.py',
+   'PYMODULE'),
+  ('importlib.metadata._adapters',
+   'C:\\Python312\\Lib\\importlib\\metadata\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.metadata._collections',
+   'C:\\Python312\\Lib\\importlib\\metadata\\_collections.py',
+   'PYMODULE'),
+  ('importlib.metadata._functools',
+   'C:\\Python312\\Lib\\importlib\\metadata\\_functools.py',
+   'PYMODULE'),
+  ('importlib.metadata._itertools',
+   'C:\\Python312\\Lib\\importlib\\metadata\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.metadata._meta',
+   'C:\\Python312\\Lib\\importlib\\metadata\\_meta.py',
+   'PYMODULE'),
+  ('importlib.metadata._text',
+   'C:\\Python312\\Lib\\importlib\\metadata\\_text.py',
+   'PYMODULE'),
+  ('importlib.readers',
+   'C:\\Python312\\Lib\\importlib\\readers.py',
+   'PYMODULE'),
+  ('importlib.resources',
+   'C:\\Python312\\Lib\\importlib\\resources\\__init__.py',
+   'PYMODULE'),
+  ('importlib.resources._adapters',
+   'C:\\Python312\\Lib\\importlib\\resources\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.resources._common',
+   'C:\\Python312\\Lib\\importlib\\resources\\_common.py',
+   'PYMODULE'),
+  ('importlib.resources._itertools',
+   'C:\\Python312\\Lib\\importlib\\resources\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.resources._legacy',
+   'C:\\Python312\\Lib\\importlib\\resources\\_legacy.py',
+   'PYMODULE'),
+  ('importlib.resources.abc',
+   'C:\\Python312\\Lib\\importlib\\resources\\abc.py',
+   'PYMODULE'),
+  ('importlib.resources.readers',
+   'C:\\Python312\\Lib\\importlib\\resources\\readers.py',
+   'PYMODULE'),
+  ('importlib.util', 'C:\\Python312\\Lib\\importlib\\util.py', 'PYMODULE'),
+  ('inspect', 'C:\\Python312\\Lib\\inspect.py', 'PYMODULE'),
+  ('ipaddress', 'C:\\Python312\\Lib\\ipaddress.py', 'PYMODULE'),
+  ('json', 'C:\\Python312\\Lib\\json\\__init__.py', 'PYMODULE'),
+  ('json.decoder', 'C:\\Python312\\Lib\\json\\decoder.py', 'PYMODULE'),
+  ('json.encoder', 'C:\\Python312\\Lib\\json\\encoder.py', 'PYMODULE'),
+  ('json.scanner', 'C:\\Python312\\Lib\\json\\scanner.py', 'PYMODULE'),
+  ('logger_csv',
+   'C:\\Users\\Rafael Cabral\\Desktop\\Supervisorio-ISM\\logger_csv.py',
+   'PYMODULE'),
+  ('logging', 'C:\\Python312\\Lib\\logging\\__init__.py', 'PYMODULE'),
+  ('lzma', 'C:\\Python312\\Lib\\lzma.py', 'PYMODULE'),
+  ('mimetypes', 'C:\\Python312\\Lib\\mimetypes.py', 'PYMODULE'),
+  ('multiprocessing',
+   'C:\\Python312\\Lib\\multiprocessing\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   'C:\\Python312\\Lib\\multiprocessing\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.context',
+   'C:\\Python312\\Lib\\multiprocessing\\context.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   'C:\\Python312\\Lib\\multiprocessing\\dummy\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   'C:\\Python312\\Lib\\multiprocessing\\dummy\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.forkserver',
+   'C:\\Python312\\Lib\\multiprocessing\\forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.heap',
+   'C:\\Python312\\Lib\\multiprocessing\\heap.py',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   'C:\\Python312\\Lib\\multiprocessing\\managers.py',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   'C:\\Python312\\Lib\\multiprocessing\\pool.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_fork',
+   'C:\\Python312\\Lib\\multiprocessing\\popen_fork.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_forkserver',
+   'C:\\Python312\\Lib\\multiprocessing\\popen_forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_posix',
+   'C:\\Python312\\Lib\\multiprocessing\\popen_spawn_posix.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   'C:\\Python312\\Lib\\multiprocessing\\popen_spawn_win32.py',
+   'PYMODULE'),
+  ('multiprocessing.process',
+   'C:\\Python312\\Lib\\multiprocessing\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.queues',
+   'C:\\Python312\\Lib\\multiprocessing\\queues.py',
+   'PYMODULE'),
+  ('multiprocessing.reduction',
+   'C:\\Python312\\Lib\\multiprocessing\\reduction.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_sharer',
+   'C:\\Python312\\Lib\\multiprocessing\\resource_sharer.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_tracker',
+   'C:\\Python312\\Lib\\multiprocessing\\resource_tracker.py',
+   'PYMODULE'),
+  ('multiprocessing.shared_memory',
+   'C:\\Python312\\Lib\\multiprocessing\\shared_memory.py',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   'C:\\Python312\\Lib\\multiprocessing\\sharedctypes.py',
+   'PYMODULE'),
+  ('multiprocessing.spawn',
+   'C:\\Python312\\Lib\\multiprocessing\\spawn.py',
+   'PYMODULE'),
+  ('multiprocessing.synchronize',
+   'C:\\Python312\\Lib\\multiprocessing\\synchronize.py',
+   'PYMODULE'),
+  ('multiprocessing.util',
+   'C:\\Python312\\Lib\\multiprocessing\\util.py',
+   'PYMODULE'),
+  ('netrc', 'C:\\Python312\\Lib\\netrc.py', 'PYMODULE'),
+  ('nidaqmx',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nidaqmx\\__init__.py',
+   'PYMODULE'),
+  ('nidaqmx._base_interpreter',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nidaqmx\\_base_interpreter.py',
+   'PYMODULE'),
+  ('nidaqmx._bitfield_utils',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nidaqmx\\_bitfield_utils.py',
+   'PYMODULE'),
+  ('nidaqmx._dotenvpath',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nidaqmx\\_dotenvpath.py',
+   'PYMODULE'),
+  ('nidaqmx._feature_toggles',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nidaqmx\\_feature_toggles.py',
+   'PYMODULE'),
+  ('nidaqmx._grpc_interpreter',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nidaqmx\\_grpc_interpreter.py',
+   'PYMODULE'),
+  ('nidaqmx._grpc_time',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nidaqmx\\_grpc_time.py',
+   'PYMODULE'),
+  ('nidaqmx._lib',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nidaqmx\\_lib.py',
+   'PYMODULE'),
+  ('nidaqmx._lib_time',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nidaqmx\\_lib_time.py',
+   'PYMODULE'),
+  ('nidaqmx._library_interpreter',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nidaqmx\\_library_interpreter.py',
+   'PYMODULE'),
+  ('nidaqmx._stubs',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nidaqmx\\_stubs\\__init__.py',
+   'PYMODULE'),
+  ('nidaqmx._stubs.data_moniker_pb2',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nidaqmx\\_stubs\\data_moniker_pb2.py',
+   'PYMODULE'),
+  ('nidaqmx._stubs.nidaqmx_pb2',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nidaqmx\\_stubs\\nidaqmx_pb2.py',
+   'PYMODULE'),
+  ('nidaqmx._stubs.nidaqmx_pb2_grpc',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nidaqmx\\_stubs\\nidaqmx_pb2_grpc.py',
+   'PYMODULE'),
+  ('nidaqmx._time',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nidaqmx\\_time.py',
+   'PYMODULE'),
+  ('nidaqmx._waveform_utils',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nidaqmx\\_waveform_utils.py',
+   'PYMODULE'),
+  ('nidaqmx.constants',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nidaqmx\\constants.py',
+   'PYMODULE'),
+  ('nidaqmx.error_codes',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nidaqmx\\error_codes.py',
+   'PYMODULE'),
+  ('nidaqmx.errors',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nidaqmx\\errors.py',
+   'PYMODULE'),
+  ('nidaqmx.grpc_session_options',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nidaqmx\\grpc_session_options.py',
+   'PYMODULE'),
+  ('nidaqmx.scale',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nidaqmx\\scale.py',
+   'PYMODULE'),
+  ('nidaqmx.stream_readers',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nidaqmx\\stream_readers\\__init__.py',
+   'PYMODULE'),
+  ('nidaqmx.stream_readers._analog_multi_channel_reader',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nidaqmx\\stream_readers\\_analog_multi_channel_reader.py',
+   'PYMODULE'),
+  ('nidaqmx.stream_readers._analog_single_channel_reader',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nidaqmx\\stream_readers\\_analog_single_channel_reader.py',
+   'PYMODULE'),
+  ('nidaqmx.stream_readers._analog_unscaled_reader',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nidaqmx\\stream_readers\\_analog_unscaled_reader.py',
+   'PYMODULE'),
+  ('nidaqmx.stream_readers._channel_reader_base',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nidaqmx\\stream_readers\\_channel_reader_base.py',
+   'PYMODULE'),
+  ('nidaqmx.stream_readers._counter_reader',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nidaqmx\\stream_readers\\_counter_reader.py',
+   'PYMODULE'),
+  ('nidaqmx.stream_readers._digital_multi_channel_reader',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nidaqmx\\stream_readers\\_digital_multi_channel_reader.py',
+   'PYMODULE'),
+  ('nidaqmx.stream_readers._digital_single_channel_reader',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nidaqmx\\stream_readers\\_digital_single_channel_reader.py',
+   'PYMODULE'),
+  ('nidaqmx.stream_readers._power_readers',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nidaqmx\\stream_readers\\_power_readers.py',
+   'PYMODULE'),
+  ('nidaqmx.system',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nidaqmx\\system\\__init__.py',
+   'PYMODULE'),
+  ('nidaqmx.system._collections',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nidaqmx\\system\\_collections\\__init__.py',
+   'PYMODULE'),
+  ('nidaqmx.system._collections.device_collection',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nidaqmx\\system\\_collections\\device_collection.py',
+   'PYMODULE'),
+  ('nidaqmx.system._collections.persisted_channel_collection',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nidaqmx\\system\\_collections\\persisted_channel_collection.py',
+   'PYMODULE'),
+  ('nidaqmx.system._collections.persisted_scale_collection',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nidaqmx\\system\\_collections\\persisted_scale_collection.py',
+   'PYMODULE'),
+  ('nidaqmx.system._collections.persisted_task_collection',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nidaqmx\\system\\_collections\\persisted_task_collection.py',
+   'PYMODULE'),
+  ('nidaqmx.system._collections.physical_channel_collection',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nidaqmx\\system\\_collections\\physical_channel_collection.py',
+   'PYMODULE'),
+  ('nidaqmx.system._watchdog_modules',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nidaqmx\\system\\_watchdog_modules\\__init__.py',
+   'PYMODULE'),
+  ('nidaqmx.system._watchdog_modules.expiration_state',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nidaqmx\\system\\_watchdog_modules\\expiration_state.py',
+   'PYMODULE'),
+  ('nidaqmx.system._watchdog_modules.expiration_states_collection',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nidaqmx\\system\\_watchdog_modules\\expiration_states_collection.py',
+   'PYMODULE'),
+  ('nidaqmx.system.device',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nidaqmx\\system\\device.py',
+   'PYMODULE'),
+  ('nidaqmx.system.physical_channel',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nidaqmx\\system\\physical_channel.py',
+   'PYMODULE'),
+  ('nidaqmx.system.storage',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nidaqmx\\system\\storage\\__init__.py',
+   'PYMODULE'),
+  ('nidaqmx.system.storage.persisted_channel',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nidaqmx\\system\\storage\\persisted_channel.py',
+   'PYMODULE'),
+  ('nidaqmx.system.storage.persisted_scale',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nidaqmx\\system\\storage\\persisted_scale.py',
+   'PYMODULE'),
+  ('nidaqmx.system.storage.persisted_task',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nidaqmx\\system\\storage\\persisted_task.py',
+   'PYMODULE'),
+  ('nidaqmx.system.system',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nidaqmx\\system\\system.py',
+   'PYMODULE'),
+  ('nidaqmx.system.watchdog',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nidaqmx\\system\\watchdog.py',
+   'PYMODULE'),
+  ('nidaqmx.task',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nidaqmx\\task\\__init__.py',
+   'PYMODULE'),
+  ('nidaqmx.task._export_signals',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nidaqmx\\task\\_export_signals.py',
+   'PYMODULE'),
+  ('nidaqmx.task._in_stream',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nidaqmx\\task\\_in_stream.py',
+   'PYMODULE'),
+  ('nidaqmx.task._out_stream',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nidaqmx\\task\\_out_stream.py',
+   'PYMODULE'),
+  ('nidaqmx.task._task',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nidaqmx\\task\\_task.py',
+   'PYMODULE'),
+  ('nidaqmx.task._timing',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nidaqmx\\task\\_timing.py',
+   'PYMODULE'),
+  ('nidaqmx.task.channels',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nidaqmx\\task\\channels\\__init__.py',
+   'PYMODULE'),
+  ('nidaqmx.task.channels._ai_channel',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nidaqmx\\task\\channels\\_ai_channel.py',
+   'PYMODULE'),
+  ('nidaqmx.task.channels._ao_channel',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nidaqmx\\task\\channels\\_ao_channel.py',
+   'PYMODULE'),
+  ('nidaqmx.task.channels._channel',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nidaqmx\\task\\channels\\_channel.py',
+   'PYMODULE'),
+  ('nidaqmx.task.channels._ci_channel',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nidaqmx\\task\\channels\\_ci_channel.py',
+   'PYMODULE'),
+  ('nidaqmx.task.channels._co_channel',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nidaqmx\\task\\channels\\_co_channel.py',
+   'PYMODULE'),
+  ('nidaqmx.task.channels._di_channel',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nidaqmx\\task\\channels\\_di_channel.py',
+   'PYMODULE'),
+  ('nidaqmx.task.channels._do_channel',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nidaqmx\\task\\channels\\_do_channel.py',
+   'PYMODULE'),
+  ('nidaqmx.task.collections',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nidaqmx\\task\\collections\\__init__.py',
+   'PYMODULE'),
+  ('nidaqmx.task.collections._ai_channel_collection',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nidaqmx\\task\\collections\\_ai_channel_collection.py',
+   'PYMODULE'),
+  ('nidaqmx.task.collections._ao_channel_collection',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nidaqmx\\task\\collections\\_ao_channel_collection.py',
+   'PYMODULE'),
+  ('nidaqmx.task.collections._channel_collection',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nidaqmx\\task\\collections\\_channel_collection.py',
+   'PYMODULE'),
+  ('nidaqmx.task.collections._ci_channel_collection',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nidaqmx\\task\\collections\\_ci_channel_collection.py',
+   'PYMODULE'),
+  ('nidaqmx.task.collections._co_channel_collection',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nidaqmx\\task\\collections\\_co_channel_collection.py',
+   'PYMODULE'),
+  ('nidaqmx.task.collections._di_channel_collection',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nidaqmx\\task\\collections\\_di_channel_collection.py',
+   'PYMODULE'),
+  ('nidaqmx.task.collections._do_channel_collection',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nidaqmx\\task\\collections\\_do_channel_collection.py',
+   'PYMODULE'),
+  ('nidaqmx.task.triggering',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nidaqmx\\task\\triggering\\__init__.py',
+   'PYMODULE'),
+  ('nidaqmx.task.triggering._arm_start_trigger',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nidaqmx\\task\\triggering\\_arm_start_trigger.py',
+   'PYMODULE'),
+  ('nidaqmx.task.triggering._handshake_trigger',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nidaqmx\\task\\triggering\\_handshake_trigger.py',
+   'PYMODULE'),
+  ('nidaqmx.task.triggering._pause_trigger',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nidaqmx\\task\\triggering\\_pause_trigger.py',
+   'PYMODULE'),
+  ('nidaqmx.task.triggering._reference_trigger',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nidaqmx\\task\\triggering\\_reference_trigger.py',
+   'PYMODULE'),
+  ('nidaqmx.task.triggering._start_trigger',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nidaqmx\\task\\triggering\\_start_trigger.py',
+   'PYMODULE'),
+  ('nidaqmx.task.triggering._triggers',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nidaqmx\\task\\triggering\\_triggers.py',
+   'PYMODULE'),
+  ('nidaqmx.types',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nidaqmx\\types.py',
+   'PYMODULE'),
+  ('nidaqmx.utils',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nidaqmx\\utils.py',
+   'PYMODULE'),
+  ('nitypes',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nitypes\\__init__.py',
+   'PYMODULE'),
+  ('nitypes._arguments',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nitypes\\_arguments.py',
+   'PYMODULE'),
+  ('nitypes._exceptions',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nitypes\\_exceptions.py',
+   'PYMODULE'),
+  ('nitypes._numpy',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nitypes\\_numpy.py',
+   'PYMODULE'),
+  ('nitypes._numpy1x',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nitypes\\_numpy1x.py',
+   'PYMODULE'),
+  ('nitypes._version',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nitypes\\_version.py',
+   'PYMODULE'),
+  ('nitypes.bintime',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nitypes\\bintime\\__init__.py',
+   'PYMODULE'),
+  ('nitypes.bintime._datetime',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nitypes\\bintime\\_datetime.py',
+   'PYMODULE'),
+  ('nitypes.bintime._datetime_array',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nitypes\\bintime\\_datetime_array.py',
+   'PYMODULE'),
+  ('nitypes.bintime._dtypes',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nitypes\\bintime\\_dtypes.py',
+   'PYMODULE'),
+  ('nitypes.bintime._time_value_tuple',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nitypes\\bintime\\_time_value_tuple.py',
+   'PYMODULE'),
+  ('nitypes.bintime._timedelta',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nitypes\\bintime\\_timedelta.py',
+   'PYMODULE'),
+  ('nitypes.bintime._timedelta_array',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nitypes\\bintime\\_timedelta_array.py',
+   'PYMODULE'),
+  ('nitypes.complex',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nitypes\\complex\\__init__.py',
+   'PYMODULE'),
+  ('nitypes.complex._conversion',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nitypes\\complex\\_conversion.py',
+   'PYMODULE'),
+  ('nitypes.complex._dtypes',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nitypes\\complex\\_dtypes.py',
+   'PYMODULE'),
+  ('nitypes.time',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nitypes\\time\\__init__.py',
+   'PYMODULE'),
+  ('nitypes.time._conversion',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nitypes\\time\\_conversion.py',
+   'PYMODULE'),
+  ('nitypes.time._types',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nitypes\\time\\_types.py',
+   'PYMODULE'),
+  ('nitypes.time.typing',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nitypes\\time\\typing.py',
+   'PYMODULE'),
+  ('nitypes.waveform',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nitypes\\waveform\\__init__.py',
+   'PYMODULE'),
+  ('nitypes.waveform._analog',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nitypes\\waveform\\_analog.py',
+   'PYMODULE'),
+  ('nitypes.waveform._complex',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nitypes\\waveform\\_complex.py',
+   'PYMODULE'),
+  ('nitypes.waveform._digital',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nitypes\\waveform\\_digital\\__init__.py',
+   'PYMODULE'),
+  ('nitypes.waveform._digital._port',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nitypes\\waveform\\_digital\\_port.py',
+   'PYMODULE'),
+  ('nitypes.waveform._digital._signal',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nitypes\\waveform\\_digital\\_signal.py',
+   'PYMODULE'),
+  ('nitypes.waveform._digital._signal_collection',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nitypes\\waveform\\_digital\\_signal_collection.py',
+   'PYMODULE'),
+  ('nitypes.waveform._digital._state',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nitypes\\waveform\\_digital\\_state.py',
+   'PYMODULE'),
+  ('nitypes.waveform._digital._waveform',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nitypes\\waveform\\_digital\\_waveform.py',
+   'PYMODULE'),
+  ('nitypes.waveform._exceptions',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nitypes\\waveform\\_exceptions.py',
+   'PYMODULE'),
+  ('nitypes.waveform._extended_properties',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nitypes\\waveform\\_extended_properties.py',
+   'PYMODULE'),
+  ('nitypes.waveform._numeric',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nitypes\\waveform\\_numeric.py',
+   'PYMODULE'),
+  ('nitypes.waveform._scaling',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nitypes\\waveform\\_scaling\\__init__.py',
+   'PYMODULE'),
+  ('nitypes.waveform._scaling._base',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nitypes\\waveform\\_scaling\\_base.py',
+   'PYMODULE'),
+  ('nitypes.waveform._scaling._linear',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nitypes\\waveform\\_scaling\\_linear.py',
+   'PYMODULE'),
+  ('nitypes.waveform._scaling._none',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nitypes\\waveform\\_scaling\\_none.py',
+   'PYMODULE'),
+  ('nitypes.waveform._spectrum',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nitypes\\waveform\\_spectrum.py',
+   'PYMODULE'),
+  ('nitypes.waveform._timing',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nitypes\\waveform\\_timing\\__init__.py',
+   'PYMODULE'),
+  ('nitypes.waveform._timing._sample_interval',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nitypes\\waveform\\_timing\\_sample_interval\\__init__.py',
+   'PYMODULE'),
+  ('nitypes.waveform._timing._sample_interval._base',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nitypes\\waveform\\_timing\\_sample_interval\\_base.py',
+   'PYMODULE'),
+  ('nitypes.waveform._timing._sample_interval._irregular',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nitypes\\waveform\\_timing\\_sample_interval\\_irregular.py',
+   'PYMODULE'),
+  ('nitypes.waveform._timing._sample_interval._mode',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nitypes\\waveform\\_timing\\_sample_interval\\_mode.py',
+   'PYMODULE'),
+  ('nitypes.waveform._timing._sample_interval._none',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nitypes\\waveform\\_timing\\_sample_interval\\_none.py',
+   'PYMODULE'),
+  ('nitypes.waveform._timing._sample_interval._regular',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nitypes\\waveform\\_timing\\_sample_interval\\_regular.py',
+   'PYMODULE'),
+  ('nitypes.waveform._timing._timing',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nitypes\\waveform\\_timing\\_timing.py',
+   'PYMODULE'),
+  ('nitypes.waveform._types',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nitypes\\waveform\\_types.py',
+   'PYMODULE'),
+  ('nitypes.waveform._warnings',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nitypes\\waveform\\_warnings.py',
+   'PYMODULE'),
+  ('nitypes.waveform.errors',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nitypes\\waveform\\errors.py',
+   'PYMODULE'),
+  ('nitypes.waveform.typing',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nitypes\\waveform\\typing.py',
+   'PYMODULE'),
+  ('nitypes.waveform.warnings',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\nitypes\\waveform\\warnings.py',
+   'PYMODULE'),
+  ('nturl2path', 'C:\\Python312\\Lib\\nturl2path.py', 'PYMODULE'),
+  ('numbers', 'C:\\Python312\\Lib\\numbers.py', 'PYMODULE'),
+  ('numpy',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\__init__.py',
+   'PYMODULE'),
+  ('numpy.__config__',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\__config__.py',
+   'PYMODULE'),
+  ('numpy._array_api_info',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\_array_api_info.py',
+   'PYMODULE'),
+  ('numpy._core',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\_core\\__init__.py',
+   'PYMODULE'),
+  ('numpy._core._add_newdocs',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\_core\\_add_newdocs.py',
+   'PYMODULE'),
+  ('numpy._core._add_newdocs_scalars',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\_core\\_add_newdocs_scalars.py',
+   'PYMODULE'),
+  ('numpy._core._asarray',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\_core\\_asarray.py',
+   'PYMODULE'),
+  ('numpy._core._dtype',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\_core\\_dtype.py',
+   'PYMODULE'),
+  ('numpy._core._dtype_ctypes',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\_core\\_dtype_ctypes.py',
+   'PYMODULE'),
+  ('numpy._core._exceptions',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\_core\\_exceptions.py',
+   'PYMODULE'),
+  ('numpy._core._internal',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\_core\\_internal.py',
+   'PYMODULE'),
+  ('numpy._core._methods',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\_core\\_methods.py',
+   'PYMODULE'),
+  ('numpy._core._string_helpers',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\_core\\_string_helpers.py',
+   'PYMODULE'),
+  ('numpy._core._type_aliases',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\_core\\_type_aliases.py',
+   'PYMODULE'),
+  ('numpy._core._ufunc_config',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\_core\\_ufunc_config.py',
+   'PYMODULE'),
+  ('numpy._core.arrayprint',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\_core\\arrayprint.py',
+   'PYMODULE'),
+  ('numpy._core.defchararray',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\_core\\defchararray.py',
+   'PYMODULE'),
+  ('numpy._core.einsumfunc',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\_core\\einsumfunc.py',
+   'PYMODULE'),
+  ('numpy._core.fromnumeric',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\_core\\fromnumeric.py',
+   'PYMODULE'),
+  ('numpy._core.function_base',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\_core\\function_base.py',
+   'PYMODULE'),
+  ('numpy._core.getlimits',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\_core\\getlimits.py',
+   'PYMODULE'),
+  ('numpy._core.memmap',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\_core\\memmap.py',
+   'PYMODULE'),
+  ('numpy._core.multiarray',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\_core\\multiarray.py',
+   'PYMODULE'),
+  ('numpy._core.numeric',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\_core\\numeric.py',
+   'PYMODULE'),
+  ('numpy._core.numerictypes',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\_core\\numerictypes.py',
+   'PYMODULE'),
+  ('numpy._core.overrides',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\_core\\overrides.py',
+   'PYMODULE'),
+  ('numpy._core.printoptions',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\_core\\printoptions.py',
+   'PYMODULE'),
+  ('numpy._core.records',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\_core\\records.py',
+   'PYMODULE'),
+  ('numpy._core.shape_base',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\_core\\shape_base.py',
+   'PYMODULE'),
+  ('numpy._core.strings',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\_core\\strings.py',
+   'PYMODULE'),
+  ('numpy._core.umath',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\_core\\umath.py',
+   'PYMODULE'),
+  ('numpy._distributor_init',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\_distributor_init.py',
+   'PYMODULE'),
+  ('numpy._expired_attrs_2_0',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\_expired_attrs_2_0.py',
+   'PYMODULE'),
+  ('numpy._globals',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\_globals.py',
+   'PYMODULE'),
+  ('numpy._pytesttester',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\_pytesttester.py',
+   'PYMODULE'),
+  ('numpy._typing',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\_typing\\__init__.py',
+   'PYMODULE'),
+  ('numpy._typing._add_docstring',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\_typing\\_add_docstring.py',
+   'PYMODULE'),
+  ('numpy._typing._array_like',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\_typing\\_array_like.py',
+   'PYMODULE'),
+  ('numpy._typing._char_codes',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\_typing\\_char_codes.py',
+   'PYMODULE'),
+  ('numpy._typing._dtype_like',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\_typing\\_dtype_like.py',
+   'PYMODULE'),
+  ('numpy._typing._nbit',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\_typing\\_nbit.py',
+   'PYMODULE'),
+  ('numpy._typing._nbit_base',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\_typing\\_nbit_base.py',
+   'PYMODULE'),
+  ('numpy._typing._nested_sequence',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\_typing\\_nested_sequence.py',
+   'PYMODULE'),
+  ('numpy._typing._scalars',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\_typing\\_scalars.py',
+   'PYMODULE'),
+  ('numpy._typing._shape',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\_typing\\_shape.py',
+   'PYMODULE'),
+  ('numpy._typing._ufunc',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\_typing\\_ufunc.py',
+   'PYMODULE'),
+  ('numpy._utils',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\_utils\\__init__.py',
+   'PYMODULE'),
+  ('numpy._utils._convertions',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\_utils\\_convertions.py',
+   'PYMODULE'),
+  ('numpy._utils._inspect',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\_utils\\_inspect.py',
+   'PYMODULE'),
+  ('numpy.char',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\char\\__init__.py',
+   'PYMODULE'),
+  ('numpy.core',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\core\\__init__.py',
+   'PYMODULE'),
+  ('numpy.core._utils',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\core\\_utils.py',
+   'PYMODULE'),
+  ('numpy.ctypeslib',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\ctypeslib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.ctypeslib._ctypeslib',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\ctypeslib\\_ctypeslib.py',
+   'PYMODULE'),
+  ('numpy.dtypes',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\dtypes.py',
+   'PYMODULE'),
+  ('numpy.exceptions',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\exceptions.py',
+   'PYMODULE'),
+  ('numpy.f2py',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\f2py\\__init__.py',
+   'PYMODULE'),
+  ('numpy.f2py.__version__',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\f2py\\__version__.py',
+   'PYMODULE'),
+  ('numpy.f2py._backends',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\f2py\\_backends\\__init__.py',
+   'PYMODULE'),
+  ('numpy.f2py._backends._backend',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\f2py\\_backends\\_backend.py',
+   'PYMODULE'),
+  ('numpy.f2py._backends._distutils',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\f2py\\_backends\\_distutils.py',
+   'PYMODULE'),
+  ('numpy.f2py._backends._meson',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\f2py\\_backends\\_meson.py',
+   'PYMODULE'),
+  ('numpy.f2py._isocbind',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\f2py\\_isocbind.py',
+   'PYMODULE'),
+  ('numpy.f2py.auxfuncs',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\f2py\\auxfuncs.py',
+   'PYMODULE'),
+  ('numpy.f2py.capi_maps',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\f2py\\capi_maps.py',
+   'PYMODULE'),
+  ('numpy.f2py.cb_rules',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\f2py\\cb_rules.py',
+   'PYMODULE'),
+  ('numpy.f2py.cfuncs',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\f2py\\cfuncs.py',
+   'PYMODULE'),
+  ('numpy.f2py.common_rules',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\f2py\\common_rules.py',
+   'PYMODULE'),
+  ('numpy.f2py.crackfortran',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\f2py\\crackfortran.py',
+   'PYMODULE'),
+  ('numpy.f2py.diagnose',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\f2py\\diagnose.py',
+   'PYMODULE'),
+  ('numpy.f2py.f2py2e',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\f2py\\f2py2e.py',
+   'PYMODULE'),
+  ('numpy.f2py.f90mod_rules',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\f2py\\f90mod_rules.py',
+   'PYMODULE'),
+  ('numpy.f2py.func2subr',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\f2py\\func2subr.py',
+   'PYMODULE'),
+  ('numpy.f2py.rules',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\f2py\\rules.py',
+   'PYMODULE'),
+  ('numpy.f2py.symbolic',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\f2py\\symbolic.py',
+   'PYMODULE'),
+  ('numpy.f2py.use_rules',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\f2py\\use_rules.py',
+   'PYMODULE'),
+  ('numpy.fft',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\fft\\__init__.py',
+   'PYMODULE'),
+  ('numpy.fft._helper',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\fft\\_helper.py',
+   'PYMODULE'),
+  ('numpy.fft._pocketfft',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\fft\\_pocketfft.py',
+   'PYMODULE'),
+  ('numpy.lib',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\lib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.lib._array_utils_impl',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\lib\\_array_utils_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._arraypad_impl',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\lib\\_arraypad_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._arraysetops_impl',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\lib\\_arraysetops_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._arrayterator_impl',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\lib\\_arrayterator_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._datasource',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\lib\\_datasource.py',
+   'PYMODULE'),
+  ('numpy.lib._format_impl',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\lib\\_format_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._function_base_impl',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\lib\\_function_base_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._histograms_impl',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\lib\\_histograms_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._index_tricks_impl',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\lib\\_index_tricks_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._iotools',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\lib\\_iotools.py',
+   'PYMODULE'),
+  ('numpy.lib._nanfunctions_impl',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\lib\\_nanfunctions_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._npyio_impl',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\lib\\_npyio_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._polynomial_impl',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\lib\\_polynomial_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._scimath_impl',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\lib\\_scimath_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._shape_base_impl',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\lib\\_shape_base_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._stride_tricks_impl',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\lib\\_stride_tricks_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._twodim_base_impl',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\lib\\_twodim_base_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._type_check_impl',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\lib\\_type_check_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._ufunclike_impl',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\lib\\_ufunclike_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._utils_impl',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\lib\\_utils_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._version',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\lib\\_version.py',
+   'PYMODULE'),
+  ('numpy.lib.array_utils',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\lib\\array_utils.py',
+   'PYMODULE'),
+  ('numpy.lib.format',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\lib\\format.py',
+   'PYMODULE'),
+  ('numpy.lib.introspect',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\lib\\introspect.py',
+   'PYMODULE'),
+  ('numpy.lib.mixins',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\lib\\mixins.py',
+   'PYMODULE'),
+  ('numpy.lib.npyio',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\lib\\npyio.py',
+   'PYMODULE'),
+  ('numpy.lib.recfunctions',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\lib\\recfunctions.py',
+   'PYMODULE'),
+  ('numpy.lib.scimath',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\lib\\scimath.py',
+   'PYMODULE'),
+  ('numpy.lib.stride_tricks',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\lib\\stride_tricks.py',
+   'PYMODULE'),
+  ('numpy.linalg',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\linalg\\__init__.py',
+   'PYMODULE'),
+  ('numpy.linalg._linalg',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\linalg\\_linalg.py',
+   'PYMODULE'),
+  ('numpy.ma',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\ma\\__init__.py',
+   'PYMODULE'),
+  ('numpy.ma.core',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\ma\\core.py',
+   'PYMODULE'),
+  ('numpy.ma.extras',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\ma\\extras.py',
+   'PYMODULE'),
+  ('numpy.ma.mrecords',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\ma\\mrecords.py',
+   'PYMODULE'),
+  ('numpy.matlib',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\matlib.py',
+   'PYMODULE'),
+  ('numpy.matrixlib',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\matrixlib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.matrixlib.defmatrix',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\matrixlib\\defmatrix.py',
+   'PYMODULE'),
+  ('numpy.polynomial',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\polynomial\\__init__.py',
+   'PYMODULE'),
+  ('numpy.polynomial._polybase',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\polynomial\\_polybase.py',
+   'PYMODULE'),
+  ('numpy.polynomial.chebyshev',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\polynomial\\chebyshev.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\polynomial\\hermite.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite_e',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\polynomial\\hermite_e.py',
+   'PYMODULE'),
+  ('numpy.polynomial.laguerre',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\polynomial\\laguerre.py',
+   'PYMODULE'),
+  ('numpy.polynomial.legendre',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\polynomial\\legendre.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polynomial',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\polynomial\\polynomial.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polyutils',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\polynomial\\polyutils.py',
+   'PYMODULE'),
+  ('numpy.random',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\random\\__init__.py',
+   'PYMODULE'),
+  ('numpy.random._pickle',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\random\\_pickle.py',
+   'PYMODULE'),
+  ('numpy.rec',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\rec\\__init__.py',
+   'PYMODULE'),
+  ('numpy.strings',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\strings\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\testing\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing._private',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\testing\\_private\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing._private.extbuild',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\testing\\_private\\extbuild.py',
+   'PYMODULE'),
+  ('numpy.testing._private.utils',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\testing\\_private\\utils.py',
+   'PYMODULE'),
+  ('numpy.testing.overrides',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\testing\\overrides.py',
+   'PYMODULE'),
+  ('numpy.typing',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\typing\\__init__.py',
+   'PYMODULE'),
+  ('numpy.version',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\numpy\\version.py',
+   'PYMODULE'),
+  ('opcode', 'C:\\Python312\\Lib\\opcode.py', 'PYMODULE'),
+  ('optparse', 'C:\\Python312\\Lib\\optparse.py', 'PYMODULE'),
+  ('packaging',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('packaging._structures',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('packaging.version',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\packaging\\version.py',
+   'PYMODULE'),
+  ('pathlib', 'C:\\Python312\\Lib\\pathlib.py', 'PYMODULE'),
+  ('pdb', 'C:\\Python312\\Lib\\pdb.py', 'PYMODULE'),
+  ('pickle', 'C:\\Python312\\Lib\\pickle.py', 'PYMODULE'),
+  ('pkgutil', 'C:\\Python312\\Lib\\pkgutil.py', 'PYMODULE'),
+  ('platform', 'C:\\Python312\\Lib\\platform.py', 'PYMODULE'),
+  ('pprint', 'C:\\Python312\\Lib\\pprint.py', 'PYMODULE'),
+  ('profile', 'C:\\Python312\\Lib\\profile.py', 'PYMODULE'),
+  ('pstats', 'C:\\Python312\\Lib\\pstats.py', 'PYMODULE'),
+  ('py_compile', 'C:\\Python312\\Lib\\py_compile.py', 'PYMODULE'),
+  ('pydoc', 'C:\\Python312\\Lib\\pydoc.py', 'PYMODULE'),
+  ('pydoc_data', 'C:\\Python312\\Lib\\pydoc_data\\__init__.py', 'PYMODULE'),
+  ('pydoc_data.topics',
+   'C:\\Python312\\Lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('pyqtgraph',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\__init__.py',
+   'PYMODULE'),
+  ('pyqtgraph.GraphicsScene',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\GraphicsScene\\__init__.py',
+   'PYMODULE'),
+  ('pyqtgraph.GraphicsScene.GraphicsScene',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\GraphicsScene\\GraphicsScene.py',
+   'PYMODULE'),
+  ('pyqtgraph.GraphicsScene.exportDialog',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\GraphicsScene\\exportDialog.py',
+   'PYMODULE'),
+  ('pyqtgraph.GraphicsScene.exportDialogTemplate_generic',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\GraphicsScene\\exportDialogTemplate_generic.py',
+   'PYMODULE'),
+  ('pyqtgraph.GraphicsScene.mouseEvents',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\GraphicsScene\\mouseEvents.py',
+   'PYMODULE'),
+  ('pyqtgraph.Point',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\Point.py',
+   'PYMODULE'),
+  ('pyqtgraph.Qt',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\Qt\\__init__.py',
+   'PYMODULE'),
+  ('pyqtgraph.Qt.OpenGLConstants',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\Qt\\OpenGLConstants.py',
+   'PYMODULE'),
+  ('pyqtgraph.Qt.OpenGLHelpers',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\Qt\\OpenGLHelpers.py',
+   'PYMODULE'),
+  ('pyqtgraph.Qt.QtCore',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\Qt\\QtCore\\__init__.py',
+   'PYMODULE'),
+  ('pyqtgraph.Qt.QtGui',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\Qt\\QtGui\\__init__.py',
+   'PYMODULE'),
+  ('pyqtgraph.Qt.QtWidgets',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\Qt\\QtWidgets\\__init__.py',
+   'PYMODULE'),
+  ('pyqtgraph.Qt.compat',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\Qt\\compat\\__init__.py',
+   'PYMODULE'),
+  ('pyqtgraph.Qt.internals',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\Qt\\internals.py',
+   'PYMODULE'),
+  ('pyqtgraph.SRTTransform',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\SRTTransform.py',
+   'PYMODULE'),
+  ('pyqtgraph.SRTTransform3D',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\SRTTransform3D.py',
+   'PYMODULE'),
+  ('pyqtgraph.SignalProxy',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\SignalProxy.py',
+   'PYMODULE'),
+  ('pyqtgraph.ThreadsafeTimer',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\ThreadsafeTimer.py',
+   'PYMODULE'),
+  ('pyqtgraph.Transform3D',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\Transform3D.py',
+   'PYMODULE'),
+  ('pyqtgraph.Vector',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\Vector.py',
+   'PYMODULE'),
+  ('pyqtgraph.WidgetGroup',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\WidgetGroup.py',
+   'PYMODULE'),
+  ('pyqtgraph.colormap',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\colormap.py',
+   'PYMODULE'),
+  ('pyqtgraph.colors',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\colors\\__init__.py',
+   'PYMODULE'),
+  ('pyqtgraph.colors.palette',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\colors\\palette.py',
+   'PYMODULE'),
+  ('pyqtgraph.configfile',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\configfile.py',
+   'PYMODULE'),
+  ('pyqtgraph.console',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\console\\__init__.py',
+   'PYMODULE'),
+  ('pyqtgraph.console.CmdInput',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\console\\CmdInput.py',
+   'PYMODULE'),
+  ('pyqtgraph.console.Console',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\console\\Console.py',
+   'PYMODULE'),
+  ('pyqtgraph.console.exception_widget',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\console\\exception_widget.py',
+   'PYMODULE'),
+  ('pyqtgraph.console.repl_widget',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\console\\repl_widget.py',
+   'PYMODULE'),
+  ('pyqtgraph.console.stackwidget',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\console\\stackwidget.py',
+   'PYMODULE'),
+  ('pyqtgraph.debug',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\debug.py',
+   'PYMODULE'),
+  ('pyqtgraph.dockarea',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\dockarea\\__init__.py',
+   'PYMODULE'),
+  ('pyqtgraph.dockarea.Container',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\dockarea\\Container.py',
+   'PYMODULE'),
+  ('pyqtgraph.dockarea.Dock',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\dockarea\\Dock.py',
+   'PYMODULE'),
+  ('pyqtgraph.dockarea.DockArea',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\dockarea\\DockArea.py',
+   'PYMODULE'),
+  ('pyqtgraph.dockarea.DockDrop',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\dockarea\\DockDrop.py',
+   'PYMODULE'),
+  ('pyqtgraph.exceptionHandling',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\exceptionHandling.py',
+   'PYMODULE'),
+  ('pyqtgraph.exporters',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\exporters\\__init__.py',
+   'PYMODULE'),
+  ('pyqtgraph.exporters.CSVExporter',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\exporters\\CSVExporter.py',
+   'PYMODULE'),
+  ('pyqtgraph.exporters.Exporter',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\exporters\\Exporter.py',
+   'PYMODULE'),
+  ('pyqtgraph.exporters.HDF5Exporter',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\exporters\\HDF5Exporter.py',
+   'PYMODULE'),
+  ('pyqtgraph.exporters.ImageExporter',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\exporters\\ImageExporter.py',
+   'PYMODULE'),
+  ('pyqtgraph.exporters.Matplotlib',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\exporters\\Matplotlib.py',
+   'PYMODULE'),
+  ('pyqtgraph.exporters.PrintExporter',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\exporters\\PrintExporter.py',
+   'PYMODULE'),
+  ('pyqtgraph.exporters.SVGExporter',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\exporters\\SVGExporter.py',
+   'PYMODULE'),
+  ('pyqtgraph.flowchart',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\flowchart\\__init__.py',
+   'PYMODULE'),
+  ('pyqtgraph.flowchart.Flowchart',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\flowchart\\Flowchart.py',
+   'PYMODULE'),
+  ('pyqtgraph.flowchart.FlowchartCtrlTemplate_generic',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\flowchart\\FlowchartCtrlTemplate_generic.py',
+   'PYMODULE'),
+  ('pyqtgraph.flowchart.FlowchartGraphicsView',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\flowchart\\FlowchartGraphicsView.py',
+   'PYMODULE'),
+  ('pyqtgraph.flowchart.Node',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\flowchart\\Node.py',
+   'PYMODULE'),
+  ('pyqtgraph.flowchart.NodeLibrary',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\flowchart\\NodeLibrary.py',
+   'PYMODULE'),
+  ('pyqtgraph.flowchart.Terminal',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\flowchart\\Terminal.py',
+   'PYMODULE'),
+  ('pyqtgraph.flowchart.library',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\flowchart\\library\\__init__.py',
+   'PYMODULE'),
+  ('pyqtgraph.flowchart.library.Data',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\flowchart\\library\\Data.py',
+   'PYMODULE'),
+  ('pyqtgraph.flowchart.library.Display',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\flowchart\\library\\Display.py',
+   'PYMODULE'),
+  ('pyqtgraph.flowchart.library.Filters',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\flowchart\\library\\Filters.py',
+   'PYMODULE'),
+  ('pyqtgraph.flowchart.library.Operators',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\flowchart\\library\\Operators.py',
+   'PYMODULE'),
+  ('pyqtgraph.flowchart.library.common',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\flowchart\\library\\common.py',
+   'PYMODULE'),
+  ('pyqtgraph.flowchart.library.functions',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\flowchart\\library\\functions.py',
+   'PYMODULE'),
+  ('pyqtgraph.functions',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\functions.py',
+   'PYMODULE'),
+  ('pyqtgraph.functions_numba',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\functions_numba.py',
+   'PYMODULE'),
+  ('pyqtgraph.functions_qimage',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\functions_qimage.py',
+   'PYMODULE'),
+  ('pyqtgraph.graphicsItems',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\graphicsItems\\__init__.py',
+   'PYMODULE'),
+  ('pyqtgraph.graphicsItems.ArrowItem',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\graphicsItems\\ArrowItem.py',
+   'PYMODULE'),
+  ('pyqtgraph.graphicsItems.AxisItem',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\graphicsItems\\AxisItem.py',
+   'PYMODULE'),
+  ('pyqtgraph.graphicsItems.BarGraphItem',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\graphicsItems\\BarGraphItem.py',
+   'PYMODULE'),
+  ('pyqtgraph.graphicsItems.BoxplotItem',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\graphicsItems\\BoxplotItem.py',
+   'PYMODULE'),
+  ('pyqtgraph.graphicsItems.ButtonItem',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\graphicsItems\\ButtonItem.py',
+   'PYMODULE'),
+  ('pyqtgraph.graphicsItems.ColorBarItem',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\graphicsItems\\ColorBarItem.py',
+   'PYMODULE'),
+  ('pyqtgraph.graphicsItems.CurvePoint',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\graphicsItems\\CurvePoint.py',
+   'PYMODULE'),
+  ('pyqtgraph.graphicsItems.DateAxisItem',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\graphicsItems\\DateAxisItem.py',
+   'PYMODULE'),
+  ('pyqtgraph.graphicsItems.ErrorBarItem',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\graphicsItems\\ErrorBarItem.py',
+   'PYMODULE'),
+  ('pyqtgraph.graphicsItems.FillBetweenItem',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\graphicsItems\\FillBetweenItem.py',
+   'PYMODULE'),
+  ('pyqtgraph.graphicsItems.GradientEditorItem',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\graphicsItems\\GradientEditorItem.py',
+   'PYMODULE'),
+  ('pyqtgraph.graphicsItems.GradientLegend',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\graphicsItems\\GradientLegend.py',
+   'PYMODULE'),
+  ('pyqtgraph.graphicsItems.GradientPresets',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\graphicsItems\\GradientPresets.py',
+   'PYMODULE'),
+  ('pyqtgraph.graphicsItems.GraphItem',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\graphicsItems\\GraphItem.py',
+   'PYMODULE'),
+  ('pyqtgraph.graphicsItems.GraphicsItem',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\graphicsItems\\GraphicsItem.py',
+   'PYMODULE'),
+  ('pyqtgraph.graphicsItems.GraphicsLayout',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\graphicsItems\\GraphicsLayout.py',
+   'PYMODULE'),
+  ('pyqtgraph.graphicsItems.GraphicsObject',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\graphicsItems\\GraphicsObject.py',
+   'PYMODULE'),
+  ('pyqtgraph.graphicsItems.GraphicsWidget',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\graphicsItems\\GraphicsWidget.py',
+   'PYMODULE'),
+  ('pyqtgraph.graphicsItems.GraphicsWidgetAnchor',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\graphicsItems\\GraphicsWidgetAnchor.py',
+   'PYMODULE'),
+  ('pyqtgraph.graphicsItems.GridItem',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\graphicsItems\\GridItem.py',
+   'PYMODULE'),
+  ('pyqtgraph.graphicsItems.HistogramLUTItem',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\graphicsItems\\HistogramLUTItem.py',
+   'PYMODULE'),
+  ('pyqtgraph.graphicsItems.ImageItem',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\graphicsItems\\ImageItem.py',
+   'PYMODULE'),
+  ('pyqtgraph.graphicsItems.InfiniteLine',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\graphicsItems\\InfiniteLine.py',
+   'PYMODULE'),
+  ('pyqtgraph.graphicsItems.IsocurveItem',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\graphicsItems\\IsocurveItem.py',
+   'PYMODULE'),
+  ('pyqtgraph.graphicsItems.ItemGroup',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\graphicsItems\\ItemGroup.py',
+   'PYMODULE'),
+  ('pyqtgraph.graphicsItems.LabelItem',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\graphicsItems\\LabelItem.py',
+   'PYMODULE'),
+  ('pyqtgraph.graphicsItems.LegendItem',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\graphicsItems\\LegendItem.py',
+   'PYMODULE'),
+  ('pyqtgraph.graphicsItems.LinearRegionItem',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\graphicsItems\\LinearRegionItem.py',
+   'PYMODULE'),
+  ('pyqtgraph.graphicsItems.PColorMeshItem',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\graphicsItems\\PColorMeshItem.py',
+   'PYMODULE'),
+  ('pyqtgraph.graphicsItems.PlotCurveItem',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\graphicsItems\\PlotCurveItem.py',
+   'PYMODULE'),
+  ('pyqtgraph.graphicsItems.PlotDataItem',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\graphicsItems\\PlotDataItem.py',
+   'PYMODULE'),
+  ('pyqtgraph.graphicsItems.PlotItem',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\graphicsItems\\PlotItem\\__init__.py',
+   'PYMODULE'),
+  ('pyqtgraph.graphicsItems.PlotItem.PlotItem',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\graphicsItems\\PlotItem\\PlotItem.py',
+   'PYMODULE'),
+  ('pyqtgraph.graphicsItems.PlotItem.plotConfigTemplate_generic',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\graphicsItems\\PlotItem\\plotConfigTemplate_generic.py',
+   'PYMODULE'),
+  ('pyqtgraph.graphicsItems.ROI',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\graphicsItems\\ROI.py',
+   'PYMODULE'),
+  ('pyqtgraph.graphicsItems.ScaleBar',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\graphicsItems\\ScaleBar.py',
+   'PYMODULE'),
+  ('pyqtgraph.graphicsItems.ScatterPlotItem',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\graphicsItems\\ScatterPlotItem.py',
+   'PYMODULE'),
+  ('pyqtgraph.graphicsItems.TargetItem',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\graphicsItems\\TargetItem.py',
+   'PYMODULE'),
+  ('pyqtgraph.graphicsItems.TextItem',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\graphicsItems\\TextItem.py',
+   'PYMODULE'),
+  ('pyqtgraph.graphicsItems.UIGraphicsItem',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\graphicsItems\\UIGraphicsItem.py',
+   'PYMODULE'),
+  ('pyqtgraph.graphicsItems.VTickGroup',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\graphicsItems\\VTickGroup.py',
+   'PYMODULE'),
+  ('pyqtgraph.graphicsItems.ViewBox',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\graphicsItems\\ViewBox\\__init__.py',
+   'PYMODULE'),
+  ('pyqtgraph.graphicsItems.ViewBox.ViewBox',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\graphicsItems\\ViewBox\\ViewBox.py',
+   'PYMODULE'),
+  ('pyqtgraph.graphicsItems.ViewBox.ViewBoxMenu',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\graphicsItems\\ViewBox\\ViewBoxMenu.py',
+   'PYMODULE'),
+  ('pyqtgraph.graphicsItems.ViewBox.axisCtrlTemplate_generic',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\graphicsItems\\ViewBox\\axisCtrlTemplate_generic.py',
+   'PYMODULE'),
+  ('pyqtgraph.icons',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\icons\\__init__.py',
+   'PYMODULE'),
+  ('pyqtgraph.imageview',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\imageview\\__init__.py',
+   'PYMODULE'),
+  ('pyqtgraph.imageview.ImageView',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\imageview\\ImageView.py',
+   'PYMODULE'),
+  ('pyqtgraph.imageview.ImageViewTemplate_generic',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\imageview\\ImageViewTemplate_generic.py',
+   'PYMODULE'),
+  ('pyqtgraph.multiprocess',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\multiprocess\\__init__.py',
+   'PYMODULE'),
+  ('pyqtgraph.multiprocess.bootstrap',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\multiprocess\\bootstrap.py',
+   'PYMODULE'),
+  ('pyqtgraph.multiprocess.parallelizer',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\multiprocess\\parallelizer.py',
+   'PYMODULE'),
+  ('pyqtgraph.multiprocess.processes',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\multiprocess\\processes.py',
+   'PYMODULE'),
+  ('pyqtgraph.multiprocess.remoteproxy',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\multiprocess\\remoteproxy.py',
+   'PYMODULE'),
+  ('pyqtgraph.parametertree',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\parametertree\\__init__.py',
+   'PYMODULE'),
+  ('pyqtgraph.parametertree.Parameter',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\parametertree\\Parameter.py',
+   'PYMODULE'),
+  ('pyqtgraph.parametertree.ParameterItem',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\parametertree\\ParameterItem.py',
+   'PYMODULE'),
+  ('pyqtgraph.parametertree.ParameterSystem',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\parametertree\\ParameterSystem.py',
+   'PYMODULE'),
+  ('pyqtgraph.parametertree.ParameterTree',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\parametertree\\ParameterTree.py',
+   'PYMODULE'),
+  ('pyqtgraph.parametertree.SystemSolver',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\parametertree\\SystemSolver.py',
+   'PYMODULE'),
+  ('pyqtgraph.parametertree.interactive',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\parametertree\\interactive.py',
+   'PYMODULE'),
+  ('pyqtgraph.parametertree.parameterTypes',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\parametertree\\parameterTypes\\__init__.py',
+   'PYMODULE'),
+  ('pyqtgraph.parametertree.parameterTypes.action',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\parametertree\\parameterTypes\\action.py',
+   'PYMODULE'),
+  ('pyqtgraph.parametertree.parameterTypes.actiongroup',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\parametertree\\parameterTypes\\actiongroup.py',
+   'PYMODULE'),
+  ('pyqtgraph.parametertree.parameterTypes.basetypes',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\parametertree\\parameterTypes\\basetypes.py',
+   'PYMODULE'),
+  ('pyqtgraph.parametertree.parameterTypes.bool',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\parametertree\\parameterTypes\\bool.py',
+   'PYMODULE'),
+  ('pyqtgraph.parametertree.parameterTypes.calendar',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\parametertree\\parameterTypes\\calendar.py',
+   'PYMODULE'),
+  ('pyqtgraph.parametertree.parameterTypes.checklist',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\parametertree\\parameterTypes\\checklist.py',
+   'PYMODULE'),
+  ('pyqtgraph.parametertree.parameterTypes.color',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\parametertree\\parameterTypes\\color.py',
+   'PYMODULE'),
+  ('pyqtgraph.parametertree.parameterTypes.colormap',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\parametertree\\parameterTypes\\colormap.py',
+   'PYMODULE'),
+  ('pyqtgraph.parametertree.parameterTypes.colormaplut',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\parametertree\\parameterTypes\\colormaplut.py',
+   'PYMODULE'),
+  ('pyqtgraph.parametertree.parameterTypes.file',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\parametertree\\parameterTypes\\file.py',
+   'PYMODULE'),
+  ('pyqtgraph.parametertree.parameterTypes.font',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\parametertree\\parameterTypes\\font.py',
+   'PYMODULE'),
+  ('pyqtgraph.parametertree.parameterTypes.list',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\parametertree\\parameterTypes\\list.py',
+   'PYMODULE'),
+  ('pyqtgraph.parametertree.parameterTypes.numeric',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\parametertree\\parameterTypes\\numeric.py',
+   'PYMODULE'),
+  ('pyqtgraph.parametertree.parameterTypes.pen',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\parametertree\\parameterTypes\\pen.py',
+   'PYMODULE'),
+  ('pyqtgraph.parametertree.parameterTypes.progress',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\parametertree\\parameterTypes\\progress.py',
+   'PYMODULE'),
+  ('pyqtgraph.parametertree.parameterTypes.qtenum',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\parametertree\\parameterTypes\\qtenum.py',
+   'PYMODULE'),
+  ('pyqtgraph.parametertree.parameterTypes.slider',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\parametertree\\parameterTypes\\slider.py',
+   'PYMODULE'),
+  ('pyqtgraph.parametertree.parameterTypes.str',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\parametertree\\parameterTypes\\str.py',
+   'PYMODULE'),
+  ('pyqtgraph.parametertree.parameterTypes.text',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\parametertree\\parameterTypes\\text.py',
+   'PYMODULE'),
+  ('pyqtgraph.reload',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\reload.py',
+   'PYMODULE'),
+  ('pyqtgraph.units',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\units.py',
+   'PYMODULE'),
+  ('pyqtgraph.util',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\util\\__init__.py',
+   'PYMODULE'),
+  ('pyqtgraph.util.cprint',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\util\\cprint.py',
+   'PYMODULE'),
+  ('pyqtgraph.util.cupy_helper',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\util\\cupy_helper.py',
+   'PYMODULE'),
+  ('pyqtgraph.util.mutex',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\util\\mutex.py',
+   'PYMODULE'),
+  ('pyqtgraph.util.numba_helper',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\util\\numba_helper.py',
+   'PYMODULE'),
+  ('pyqtgraph.widgets',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\widgets\\__init__.py',
+   'PYMODULE'),
+  ('pyqtgraph.widgets.BusyCursor',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\widgets\\BusyCursor.py',
+   'PYMODULE'),
+  ('pyqtgraph.widgets.CheckTable',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\widgets\\CheckTable.py',
+   'PYMODULE'),
+  ('pyqtgraph.widgets.ColorButton',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\widgets\\ColorButton.py',
+   'PYMODULE'),
+  ('pyqtgraph.widgets.ColorMapButton',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\widgets\\ColorMapButton.py',
+   'PYMODULE'),
+  ('pyqtgraph.widgets.ColorMapMenu',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\widgets\\ColorMapMenu.py',
+   'PYMODULE'),
+  ('pyqtgraph.widgets.ColorMapWidget',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\widgets\\ColorMapWidget.py',
+   'PYMODULE'),
+  ('pyqtgraph.widgets.ComboBox',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\widgets\\ComboBox.py',
+   'PYMODULE'),
+  ('pyqtgraph.widgets.DataFilterWidget',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\widgets\\DataFilterWidget.py',
+   'PYMODULE'),
+  ('pyqtgraph.widgets.DataTreeWidget',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\widgets\\DataTreeWidget.py',
+   'PYMODULE'),
+  ('pyqtgraph.widgets.DiffTreeWidget',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\widgets\\DiffTreeWidget.py',
+   'PYMODULE'),
+  ('pyqtgraph.widgets.FeedbackButton',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\widgets\\FeedbackButton.py',
+   'PYMODULE'),
+  ('pyqtgraph.widgets.FileDialog',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\widgets\\FileDialog.py',
+   'PYMODULE'),
+  ('pyqtgraph.widgets.GradientWidget',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\widgets\\GradientWidget.py',
+   'PYMODULE'),
+  ('pyqtgraph.widgets.GraphicsLayoutWidget',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\widgets\\GraphicsLayoutWidget.py',
+   'PYMODULE'),
+  ('pyqtgraph.widgets.GraphicsView',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\widgets\\GraphicsView.py',
+   'PYMODULE'),
+  ('pyqtgraph.widgets.GroupBox',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\widgets\\GroupBox.py',
+   'PYMODULE'),
+  ('pyqtgraph.widgets.HistogramLUTWidget',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\widgets\\HistogramLUTWidget.py',
+   'PYMODULE'),
+  ('pyqtgraph.widgets.JoystickButton',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\widgets\\JoystickButton.py',
+   'PYMODULE'),
+  ('pyqtgraph.widgets.LayoutWidget',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\widgets\\LayoutWidget.py',
+   'PYMODULE'),
+  ('pyqtgraph.widgets.MatplotlibWidget',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\widgets\\MatplotlibWidget.py',
+   'PYMODULE'),
+  ('pyqtgraph.widgets.PathButton',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\widgets\\PathButton.py',
+   'PYMODULE'),
+  ('pyqtgraph.widgets.PenPreviewLabel',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\widgets\\PenPreviewLabel.py',
+   'PYMODULE'),
+  ('pyqtgraph.widgets.PlotWidget',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\widgets\\PlotWidget.py',
+   'PYMODULE'),
+  ('pyqtgraph.widgets.ProgressDialog',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\widgets\\ProgressDialog.py',
+   'PYMODULE'),
+  ('pyqtgraph.widgets.RawImageWidget',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\widgets\\RawImageWidget.py',
+   'PYMODULE'),
+  ('pyqtgraph.widgets.RemoteGraphicsView',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\widgets\\RemoteGraphicsView.py',
+   'PYMODULE'),
+  ('pyqtgraph.widgets.ScatterPlotWidget',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\widgets\\ScatterPlotWidget.py',
+   'PYMODULE'),
+  ('pyqtgraph.widgets.SpinBox',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\widgets\\SpinBox.py',
+   'PYMODULE'),
+  ('pyqtgraph.widgets.TableWidget',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\widgets\\TableWidget.py',
+   'PYMODULE'),
+  ('pyqtgraph.widgets.TreeWidget',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\widgets\\TreeWidget.py',
+   'PYMODULE'),
+  ('pyqtgraph.widgets.ValueLabel',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\widgets\\ValueLabel.py',
+   'PYMODULE'),
+  ('pyqtgraph.widgets.VerticalLabel',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\pyqtgraph\\widgets\\VerticalLabel.py',
+   'PYMODULE'),
+  ('queue', 'C:\\Python312\\Lib\\queue.py', 'PYMODULE'),
+  ('quopri', 'C:\\Python312\\Lib\\quopri.py', 'PYMODULE'),
+  ('random', 'C:\\Python312\\Lib\\random.py', 'PYMODULE'),
+  ('runpy', 'C:\\Python312\\Lib\\runpy.py', 'PYMODULE'),
+  ('secrets', 'C:\\Python312\\Lib\\secrets.py', 'PYMODULE'),
+  ('selectors', 'C:\\Python312\\Lib\\selectors.py', 'PYMODULE'),
+  ('shlex', 'C:\\Python312\\Lib\\shlex.py', 'PYMODULE'),
+  ('shutil', 'C:\\Python312\\Lib\\shutil.py', 'PYMODULE'),
+  ('signal', 'C:\\Python312\\Lib\\signal.py', 'PYMODULE'),
+  ('socket', 'C:\\Python312\\Lib\\socket.py', 'PYMODULE'),
+  ('socketserver', 'C:\\Python312\\Lib\\socketserver.py', 'PYMODULE'),
+  ('splash',
+   'C:\\Users\\Rafael Cabral\\Desktop\\Supervisorio-ISM\\splash.py',
+   'PYMODULE'),
+  ('ssl', 'C:\\Python312\\Lib\\ssl.py', 'PYMODULE'),
+  ('statistics', 'C:\\Python312\\Lib\\statistics.py', 'PYMODULE'),
+  ('string', 'C:\\Python312\\Lib\\string.py', 'PYMODULE'),
+  ('stringprep', 'C:\\Python312\\Lib\\stringprep.py', 'PYMODULE'),
+  ('subprocess', 'C:\\Python312\\Lib\\subprocess.py', 'PYMODULE'),
+  ('sysconfig', 'C:\\Python312\\Lib\\sysconfig.py', 'PYMODULE'),
+  ('tarfile', 'C:\\Python312\\Lib\\tarfile.py', 'PYMODULE'),
+  ('tempfile', 'C:\\Python312\\Lib\\tempfile.py', 'PYMODULE'),
+  ('textwrap', 'C:\\Python312\\Lib\\textwrap.py', 'PYMODULE'),
+  ('threading', 'C:\\Python312\\Lib\\threading.py', 'PYMODULE'),
+  ('token', 'C:\\Python312\\Lib\\token.py', 'PYMODULE'),
+  ('tokenize', 'C:\\Python312\\Lib\\tokenize.py', 'PYMODULE'),
+  ('tracemalloc', 'C:\\Python312\\Lib\\tracemalloc.py', 'PYMODULE'),
+  ('tty', 'C:\\Python312\\Lib\\tty.py', 'PYMODULE'),
+  ('typing', 'C:\\Python312\\Lib\\typing.py', 'PYMODULE'),
+  ('typing_extensions',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\typing_extensions.py',
+   'PYMODULE'),
+  ('tzdata',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\tzdata\\__init__.py',
+   'PYMODULE'),
+  ('tzdata.zoneinfo',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\tzdata\\zoneinfo\\__init__.py',
+   'PYMODULE'),
+  ('tzdata.zoneinfo.Africa',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Africa\\__init__.py',
+   'PYMODULE'),
+  ('tzdata.zoneinfo.America',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\__init__.py',
+   'PYMODULE'),
+  ('tzdata.zoneinfo.America.Argentina',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Argentina\\__init__.py',
+   'PYMODULE'),
+  ('tzdata.zoneinfo.America.Indiana',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Indiana\\__init__.py',
+   'PYMODULE'),
+  ('tzdata.zoneinfo.America.Kentucky',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\Kentucky\\__init__.py',
+   'PYMODULE'),
+  ('tzdata.zoneinfo.America.North_Dakota',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\tzdata\\zoneinfo\\America\\North_Dakota\\__init__.py',
+   'PYMODULE'),
+  ('tzdata.zoneinfo.Antarctica',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Antarctica\\__init__.py',
+   'PYMODULE'),
+  ('tzdata.zoneinfo.Arctic',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Arctic\\__init__.py',
+   'PYMODULE'),
+  ('tzdata.zoneinfo.Asia',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Asia\\__init__.py',
+   'PYMODULE'),
+  ('tzdata.zoneinfo.Atlantic',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Atlantic\\__init__.py',
+   'PYMODULE'),
+  ('tzdata.zoneinfo.Australia',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Australia\\__init__.py',
+   'PYMODULE'),
+  ('tzdata.zoneinfo.Brazil',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Brazil\\__init__.py',
+   'PYMODULE'),
+  ('tzdata.zoneinfo.Canada',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Canada\\__init__.py',
+   'PYMODULE'),
+  ('tzdata.zoneinfo.Chile',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Chile\\__init__.py',
+   'PYMODULE'),
+  ('tzdata.zoneinfo.Etc',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Etc\\__init__.py',
+   'PYMODULE'),
+  ('tzdata.zoneinfo.Europe',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Europe\\__init__.py',
+   'PYMODULE'),
+  ('tzdata.zoneinfo.Indian',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Indian\\__init__.py',
+   'PYMODULE'),
+  ('tzdata.zoneinfo.Mexico',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Mexico\\__init__.py',
+   'PYMODULE'),
+  ('tzdata.zoneinfo.Pacific',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\tzdata\\zoneinfo\\Pacific\\__init__.py',
+   'PYMODULE'),
+  ('tzdata.zoneinfo.US',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\tzdata\\zoneinfo\\US\\__init__.py',
+   'PYMODULE'),
+  ('tzlocal',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\tzlocal\\__init__.py',
+   'PYMODULE'),
+  ('tzlocal.unix',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\tzlocal\\unix.py',
+   'PYMODULE'),
+  ('tzlocal.utils',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\tzlocal\\utils.py',
+   'PYMODULE'),
+  ('tzlocal.win32',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\tzlocal\\win32.py',
+   'PYMODULE'),
+  ('tzlocal.windows_tz',
+   'C:\\Users\\Rafael '
+   'Cabral\\Desktop\\Supervisorio-ISM\\venv\\Lib\\site-packages\\tzlocal\\windows_tz.py',
+   'PYMODULE'),
+  ('ui_main',
+   'C:\\Users\\Rafael Cabral\\Desktop\\Supervisorio-ISM\\ui_main.py',
+   'PYMODULE'),
+  ('unittest', 'C:\\Python312\\Lib\\unittest\\__init__.py', 'PYMODULE'),
+  ('unittest._log', 'C:\\Python312\\Lib\\unittest\\_log.py', 'PYMODULE'),
+  ('unittest.async_case',
+   'C:\\Python312\\Lib\\unittest\\async_case.py',
+   'PYMODULE'),
+  ('unittest.case', 'C:\\Python312\\Lib\\unittest\\case.py', 'PYMODULE'),
+  ('unittest.loader', 'C:\\Python312\\Lib\\unittest\\loader.py', 'PYMODULE'),
+  ('unittest.main', 'C:\\Python312\\Lib\\unittest\\main.py', 'PYMODULE'),
+  ('unittest.result', 'C:\\Python312\\Lib\\unittest\\result.py', 'PYMODULE'),
+  ('unittest.runner', 'C:\\Python312\\Lib\\unittest\\runner.py', 'PYMODULE'),
+  ('unittest.signals', 'C:\\Python312\\Lib\\unittest\\signals.py', 'PYMODULE'),
+  ('unittest.suite', 'C:\\Python312\\Lib\\unittest\\suite.py', 'PYMODULE'),
+  ('unittest.util', 'C:\\Python312\\Lib\\unittest\\util.py', 'PYMODULE'),
+  ('urllib', 'C:\\Python312\\Lib\\urllib\\__init__.py', 'PYMODULE'),
+  ('urllib.error', 'C:\\Python312\\Lib\\urllib\\error.py', 'PYMODULE'),
+  ('urllib.parse', 'C:\\Python312\\Lib\\urllib\\parse.py', 'PYMODULE'),
+  ('urllib.request', 'C:\\Python312\\Lib\\urllib\\request.py', 'PYMODULE'),
+  ('urllib.response', 'C:\\Python312\\Lib\\urllib\\response.py', 'PYMODULE'),
+  ('webbrowser', 'C:\\Python312\\Lib\\webbrowser.py', 'PYMODULE'),
+  ('xml', 'C:\\Python312\\Lib\\xml\\__init__.py', 'PYMODULE'),
+  ('xml.dom', 'C:\\Python312\\Lib\\xml\\dom\\__init__.py', 'PYMODULE'),
+  ('xml.dom.NodeFilter',
+   'C:\\Python312\\Lib\\xml\\dom\\NodeFilter.py',
+   'PYMODULE'),
+  ('xml.dom.domreg', 'C:\\Python312\\Lib\\xml\\dom\\domreg.py', 'PYMODULE'),
+  ('xml.dom.expatbuilder',
+   'C:\\Python312\\Lib\\xml\\dom\\expatbuilder.py',
+   'PYMODULE'),
+  ('xml.dom.minicompat',
+   'C:\\Python312\\Lib\\xml\\dom\\minicompat.py',
+   'PYMODULE'),
+  ('xml.dom.minidom', 'C:\\Python312\\Lib\\xml\\dom\\minidom.py', 'PYMODULE'),
+  ('xml.dom.pulldom', 'C:\\Python312\\Lib\\xml\\dom\\pulldom.py', 'PYMODULE'),
+  ('xml.dom.xmlbuilder',
+   'C:\\Python312\\Lib\\xml\\dom\\xmlbuilder.py',
+   'PYMODULE'),
+  ('xml.etree', 'C:\\Python312\\Lib\\xml\\etree\\__init__.py', 'PYMODULE'),
+  ('xml.etree.ElementInclude',
+   'C:\\Python312\\Lib\\xml\\etree\\ElementInclude.py',
+   'PYMODULE'),
+  ('xml.etree.ElementPath',
+   'C:\\Python312\\Lib\\xml\\etree\\ElementPath.py',
+   'PYMODULE'),
+  ('xml.etree.ElementTree',
+   'C:\\Python312\\Lib\\xml\\etree\\ElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.cElementTree',
+   'C:\\Python312\\Lib\\xml\\etree\\cElementTree.py',
+   'PYMODULE'),
+  ('xml.parsers', 'C:\\Python312\\Lib\\xml\\parsers\\__init__.py', 'PYMODULE'),
+  ('xml.parsers.expat',
+   'C:\\Python312\\Lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.sax', 'C:\\Python312\\Lib\\xml\\sax\\__init__.py', 'PYMODULE'),
+  ('xml.sax._exceptions',
+   'C:\\Python312\\Lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'C:\\Python312\\Lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.handler', 'C:\\Python312\\Lib\\xml\\sax\\handler.py', 'PYMODULE'),
+  ('xml.sax.saxutils', 'C:\\Python312\\Lib\\xml\\sax\\saxutils.py', 'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'C:\\Python312\\Lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('xmlrpc', 'C:\\Python312\\Lib\\xmlrpc\\__init__.py', 'PYMODULE'),
+  ('xmlrpc.client', 'C:\\Python312\\Lib\\xmlrpc\\client.py', 'PYMODULE'),
+  ('zipfile', 'C:\\Python312\\Lib\\zipfile\\__init__.py', 'PYMODULE'),
+  ('zipfile._path',
+   'C:\\Python312\\Lib\\zipfile\\_path\\__init__.py',
+   'PYMODULE'),
+  ('zipfile._path.glob',
+   'C:\\Python312\\Lib\\zipfile\\_path\\glob.py',
+   'PYMODULE'),
+  ('zipimport', 'C:\\Python312\\Lib\\zipimport.py', 'PYMODULE'),
+  ('zoneinfo', 'C:\\Python312\\Lib\\zoneinfo\\__init__.py', 'PYMODULE'),
+  ('zoneinfo._common', 'C:\\Python312\\Lib\\zoneinfo\\_common.py', 'PYMODULE'),
+  ('zoneinfo._tzpath', 'C:\\Python312\\Lib\\zoneinfo\\_tzpath.py', 'PYMODULE'),
+  ('zoneinfo._zoneinfo',
+   'C:\\Python312\\Lib\\zoneinfo\\_zoneinfo.py',
+   'PYMODULE')])

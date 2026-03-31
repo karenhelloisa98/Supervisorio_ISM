@@ -1,0 +1,12 @@
+{
+  "sample_rate_hz": 10,
+  "channels": [
+    {"name": "P1", "physical": "cDAQ1Mod1/ai0", "lrv": 0.0, "urv": 10000.0, "unit": "bar"},
+    {"name": "P2", "physical": "cDAQ1Mod1/ai1", "lrv": 0.0, "urv": 10000.0, "unit": "bar"},
+    {"name": "P3", "physical": "cDAQ1Mod1/ai2", "lrv": 0.0, "urv": 10000.0, "unit": "bar"},
+    {"name": "P4", "physical": "cDAQ1Mod1/ai3", "lrv": 0.0, "urv": 10000.0, "unit": "bar"},
+    {"name": "DP", "physical": "cDAQ1Mod1/ai4", "lrv": 0.0, "urv": 10000.0, "unit": "bar"}
+  ],
+  "csv": { "enabled": true, "folder": "logs", "file_prefix": "pressao" },
+  "limits_mA": { "open_loop_low_mA": 3.6, "overrange_high_mA": 21.0 }
+}
