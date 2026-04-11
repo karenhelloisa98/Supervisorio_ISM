@@ -37,6 +37,6 @@ class Login(QDialog):
             self.accept()
         else:
             QMessageBox.warning(self, "Erro", "Usuário ou senha inválidos.")
-            self.txt_user.selectAll()  #self.txt_user.clear()
+            self.txt_user.selectAll() 
             self.txt_senha.clear()   
             self.txt_user.setFocus()
