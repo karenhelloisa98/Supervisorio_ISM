@@ -6,7 +6,7 @@ from PyQt5.QtWidgets import QApplication
 from PyQt5.QtCore import QTimer
 
 from ui_main import MainWidget
-from splash import SplashWidget
+from Versão1.splash import SplashWidget
 
 
 def main():
