@@ -10,6 +10,7 @@ from PyQt5.QtGui import QIcon
 from PyQt5.QtWidgets import QMainWindow
 from PyQt5.QtCore import Qt, QTimer, QTime, QDate
 from PyQt5.QtWidgets import (QMessageBox)
+from logger_csv import CsvLogger
 
 def resource_path(relative_path: str) -> str:
     base = getattr(sys, "_MEIPASS", os.path.abspath("."))
@@ -146,7 +147,6 @@ class TelaPrincipal(QMainWindow):
         self.widget_plot_k.setLabel('bottom', 'Amostras')
         self.curva_k = self.widget_plot_k.plot([], [], pen=pen_k)
 
-
     # ===== FUNÇÕES DE NAVEGAÇÃO E CONTROLE =====
     def ir_para_operacao(self):
         self.Paginas.setCurrentIndex(0)
@@ -251,39 +251,6 @@ class TelaPrincipal(QMainWindow):
         if self.flow_source.currentIndex() == 0:
             return float(self.input_q.value())
         return self.current_pump_flow_m3s
-
-    # =========================================================
-    # CÁLCULO DE POROSIDADE
-    # =========================================================
-    def calculate_porosity(self):
-        try:
-            v1 = float(self.input_v1.value())
-            v2 = float(self.input_vb.value())
-
-            if v2 <= 0:
-                raise ValueError("VB deve ser maior que zero.")
-            if v1 <= 0:
-                raise ValueError("V1 deve ser maior que zero.")
-
-            p1 = self.latest_eng_corr.get("P1")
-            p2 = self.latest_eng_corr.get("P2")
-
-            if p1 is None or p2 is None:
-                p1 = self.latest_eng_corr.get("P1")
-                p2 = self.latest_eng_corr.get("P2")
-
-            if p1 is None or p2 is None:
-                raise ValueError("Não foi possível encontrar P1/P2 ou P3/P4 nas leituras.")
-            if p2 <= 0:
-                raise ValueError("P2 deve ser maior que zero.")
-
-            vp = v1 * ((p1 / p2) - 1.0)
-            phi = (vp / v2) * 100.0
-
-            self.lbl_phi.setText(f"{phi:.2f} %")
-
-        except Exception as e:
-            QMessageBox.critical(self, "Erro no cálculo", str(e))
 
     # =========================================================
     # CÁLCULO DE PERMEABILIDADE (tempo real)

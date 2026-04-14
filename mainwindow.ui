@@ -171,7 +171,7 @@ QPushButton:hover{
 }</string>
           </property>
           <property name="text">
-           <string>Iniciar DAQ</string>
+           <string>Iniciar Sistema</string>
           </property>
          </widget>
         </item>
@@ -205,7 +205,7 @@ QPushButton:hover{
 }</string>
           </property>
           <property name="text">
-           <string>Parar DAQ</string>
+           <string>Parar Sistema</string>
           </property>
          </widget>
         </item>
@@ -447,7 +447,7 @@ QPushButton:hover{
           <x>410</x>
           <y>10</y>
           <width>1471</width>
-          <height>671</height>
+          <height>641</height>
          </rect>
         </property>
         <property name="styleSheet">
@@ -1729,6 +1729,63 @@ background-color: rgb(0, 85, 255);</string>
           <set>Qt::AlignCenter</set>
          </property>
         </widget>
+        <widget class="QWidget" name="">
+         <property name="geometry">
+          <rect>
+           <x>650</x>
+           <y>130</y>
+           <width>193</width>
+           <height>22</height>
+          </rect>
+         </property>
+         <layout class="QHBoxLayout" name="horizontalLayout_4">
+          <item>
+           <widget class="QLabel" name="label_30">
+            <property name="text">
+             <string>&lt;html&gt;&lt;body&gt;&lt;p&gt; &amp;Delta;P (P1-P2):&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="QLabel" name="lbl_dpcalc">
+            <property name="minimumSize">
+             <size>
+              <width>70</width>
+              <height>18</height>
+             </size>
+            </property>
+            <property name="maximumSize">
+             <size>
+              <width>70</width>
+              <height>18</height>
+             </size>
+            </property>
+            <property name="frameShape">
+             <enum>QFrame::Box</enum>
+            </property>
+            <property name="frameShadow">
+             <enum>QFrame::Raised</enum>
+            </property>
+            <property name="text">
+             <string>0 psi</string>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <spacer name="horizontalSpacer_15">
+            <property name="orientation">
+             <enum>Qt::Horizontal</enum>
+            </property>
+            <property name="sizeHint" stdset="0">
+             <size>
+              <width>40</width>
+              <height>20</height>
+             </size>
+            </property>
+           </spacer>
+          </item>
+         </layout>
+        </widget>
         <zorder>line_42</zorder>
         <zorder>label_17</zorder>
         <zorder>layoutWidget</zorder>
@@ -1777,6 +1834,7 @@ background-color: rgb(0, 85, 255);</string>
         <zorder>line_41</zorder>
         <zorder>label_69</zorder>
         <zorder>label_70</zorder>
+        <zorder></zorder>
        </widget>
        <widget class="QWidget" name="widget_2" native="true">
         <property name="geometry">
@@ -1787,177 +1845,63 @@ background-color: rgb(0, 85, 255);</string>
           <height>101</height>
          </rect>
         </property>
-        <widget class="QWidget" name="layoutWidget">
+        <widget class="QWidget" name="">
          <property name="geometry">
           <rect>
            <x>0</x>
-           <y>10</y>
-           <width>644</width>
-           <height>85</height>
+           <y>60</y>
+           <width>641</width>
+           <height>24</height>
           </rect>
          </property>
-         <layout class="QGridLayout" name="gridLayout_15">
-          <item row="0" column="0">
-           <widget class="QLabel" name="label_14">
-            <property name="font">
-             <font>
-              <weight>75</weight>
-              <bold>true</bold>
-             </font>
-            </property>
-            <property name="text">
-             <string>Logging</string>
-            </property>
-            <property name="alignment">
-             <set>Qt::AlignCenter</set>
-            </property>
-           </widget>
-          </item>
-          <item row="1" column="0">
-           <layout class="QHBoxLayout" name="horizontalLayout_11">
+         <layout class="QHBoxLayout" name="horizontalLayout_7">
+          <item>
+           <layout class="QHBoxLayout" name="horizontalLayout_6">
             <item>
-             <widget class="QLabel" name="label_13">
+             <widget class="QLabel" name="label_9">
               <property name="text">
-               <string>Comentário:</string>
+               <string>Tempo de Análise</string>
               </property>
              </widget>
             </item>
             <item>
-             <widget class="QLineEdit" name="lineEdit"/>
+             <widget class="QComboBox" name="tempo_analise">
+              <item>
+               <property name="text">
+                <string>5s</string>
+               </property>
+              </item>
+              <item>
+               <property name="text">
+                <string>10s</string>
+               </property>
+              </item>
+              <item>
+               <property name="text">
+                <string>30s</string>
+               </property>
+              </item>
+              <item>
+               <property name="text">
+                <string>1min</string>
+               </property>
+              </item>
+             </widget>
             </item>
            </layout>
           </item>
-          <item row="2" column="0">
-           <layout class="QHBoxLayout" name="horizontalLayout_23">
-            <item>
-             <widget class="QCheckBox" name="checkBox">
-              <property name="text">
-               <string>Enviar Comentário</string>
-              </property>
-              <property name="checked">
-               <bool>false</bool>
-              </property>
-              <property name="autoRepeat">
-               <bool>false</bool>
-              </property>
-              <property name="tristate">
-               <bool>false</bool>
-              </property>
-             </widget>
-            </item>
-            <item>
-             <spacer name="horizontalSpacer_7">
-              <property name="orientation">
-               <enum>Qt::Horizontal</enum>
-              </property>
-              <property name="sizeHint" stdset="0">
-               <size>
-                <width>40</width>
-                <height>20</height>
-               </size>
-              </property>
-             </spacer>
-            </item>
-            <item>
-             <layout class="QHBoxLayout" name="horizontalLayout_22">
-              <item>
-               <widget class="QLabel" name="label_15">
-                <property name="text">
-                 <string>Tempo de Logging:</string>
-                </property>
-               </widget>
-              </item>
-              <item>
-               <widget class="QLabel" name="label_16">
-                <property name="text">
-                 <string>00:00:00</string>
-                </property>
-               </widget>
-              </item>
-             </layout>
-            </item>
-            <item>
-             <spacer name="horizontalSpacer_8">
-              <property name="orientation">
-               <enum>Qt::Horizontal</enum>
-              </property>
-              <property name="sizeHint" stdset="0">
-               <size>
-                <width>148</width>
-                <height>20</height>
-               </size>
-              </property>
-             </spacer>
-            </item>
-            <item>
-             <widget class="QPushButton" name="pushButton_calcularporosidade_2">
-              <property name="sizePolicy">
-               <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
-                <horstretch>0</horstretch>
-                <verstretch>0</verstretch>
-               </sizepolicy>
-              </property>
-              <property name="minimumSize">
-               <size>
-                <width>120</width>
-                <height>27</height>
-               </size>
-              </property>
-              <property name="maximumSize">
-               <size>
-                <width>120</width>
-                <height>16777215</height>
-               </size>
-              </property>
-              <property name="font">
-               <font>
-                <family>Segoe UI</family>
-                <pointsize>-1</pointsize>
-                <weight>75</weight>
-                <bold>true</bold>
-               </font>
-              </property>
-              <property name="styleSheet">
-               <string notr="true">QPushButton {
-    background-color: #000000;      
-    color: #ffffff;                 
-    border: 1px solid #c0c0c0;    
-    padding: 5px;                   
-    font-family: &quot;Segoe UI&quot;;        
-    font-size: 12px;
-    font-weight: bold;             
-}
-
-QPushButton:hover {
-    background-color: #ffffff;     
-    color: #000000;                
-    border: 1px solid #000000;     
-}
-
-/* Quando clica: Fica um cinza médio para dar sensação de profundidade */
-QPushButton:pressed {
-    background-color: #333333;      /* Cinza Escuro */
-    color: #ffffff;                 /* Letra volta a ser Branca */
-}</string>
-              </property>
-              <property name="text">
-               <string>Iniciar Logging</string>
-              </property>
-              <property name="shortcut">
-               <string/>
-              </property>
-              <property name="checkable">
-               <bool>false</bool>
-              </property>
-              <property name="autoDefault">
-               <bool>false</bool>
-              </property>
-              <property name="flat">
-               <bool>false</bool>
-              </property>
-             </widget>
-            </item>
-           </layout>
+          <item>
+           <spacer name="horizontalSpacer_9">
+            <property name="orientation">
+             <enum>Qt::Horizontal</enum>
+            </property>
+            <property name="sizeHint" stdset="0">
+             <size>
+              <width>458</width>
+              <height>20</height>
+             </size>
+            </property>
+           </spacer>
           </item>
          </layout>
         </widget>
@@ -2109,7 +2053,7 @@ QPushButton:pressed {
 }</string>
              </property>
              <property name="text">
-              <string>Conectar Estufa</string>
+              <string>Ligar Estufa</string>
              </property>
              <property name="shortcut">
               <string/>
@@ -2173,7 +2117,7 @@ QPushButton:pressed {
 }</string>
              </property>
              <property name="text">
-              <string>Desconectar Estufa</string>
+              <string>Desligar Estufa</string>
              </property>
              <property name="shortcut">
               <string/>
@@ -2757,186 +2701,14 @@ QPushButton:pressed {
         <property name="geometry">
          <rect>
           <x>410</x>
-          <y>680</y>
+          <y>650</y>
           <width>3</width>
-          <height>130</height>
+          <height>150</height>
          </rect>
         </property>
         <property name="orientation">
          <enum>Qt::Vertical</enum>
         </property>
-       </widget>
-       <widget class="QWidget" name="layoutWidget">
-        <property name="geometry">
-         <rect>
-          <x>1100</x>
-          <y>690</y>
-          <width>341</width>
-          <height>105</height>
-         </rect>
-        </property>
-        <layout class="QGridLayout" name="gridLayout">
-         <item row="0" column="0">
-          <widget class="QLabel" name="label_4">
-           <property name="text">
-            <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; text-decoration: underline;&quot;&gt;Pressões&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
-           </property>
-          </widget>
-         </item>
-         <item row="1" column="0">
-          <layout class="QHBoxLayout" name="horizontalLayout_2" stretch="5,0,14">
-           <item>
-            <widget class="QLabel" name="label_35">
-             <property name="minimumSize">
-              <size>
-               <width>16</width>
-               <height>0</height>
-              </size>
-             </property>
-             <property name="text">
-              <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;σ (P2 - P&lt;span style=&quot; vertical-align:sub;&quot;&gt;m&lt;/span&gt;)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
-             </property>
-            </widget>
-           </item>
-           <item>
-            <widget class="QLabel" name="lbl_sigma_eff">
-             <property name="minimumSize">
-              <size>
-               <width>70</width>
-               <height>18</height>
-              </size>
-             </property>
-             <property name="maximumSize">
-              <size>
-               <width>70</width>
-               <height>18</height>
-              </size>
-             </property>
-             <property name="frameShape">
-              <enum>QFrame::Box</enum>
-             </property>
-             <property name="frameShadow">
-              <enum>QFrame::Raised</enum>
-             </property>
-             <property name="text">
-              <string>0 psi</string>
-             </property>
-            </widget>
-           </item>
-           <item>
-            <spacer name="horizontalSpacer_13">
-             <property name="orientation">
-              <enum>Qt::Horizontal</enum>
-             </property>
-             <property name="sizeHint" stdset="0">
-              <size>
-               <width>40</width>
-               <height>20</height>
-              </size>
-             </property>
-            </spacer>
-           </item>
-          </layout>
-         </item>
-         <item row="2" column="0">
-          <layout class="QHBoxLayout" name="horizontalLayout_3" stretch="14,5,40">
-           <item>
-            <widget class="QLabel" name="label_32">
-             <property name="text">
-              <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;P&lt;/span&gt;&lt;span style=&quot; font-size:9pt; vertical-align:sub;&quot;&gt;m&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
-             </property>
-            </widget>
-           </item>
-           <item>
-            <widget class="QLabel" name="lbl_pmean">
-             <property name="minimumSize">
-              <size>
-               <width>70</width>
-               <height>18</height>
-              </size>
-             </property>
-             <property name="maximumSize">
-              <size>
-               <width>70</width>
-               <height>18</height>
-              </size>
-             </property>
-             <property name="frameShape">
-              <enum>QFrame::Box</enum>
-             </property>
-             <property name="frameShadow">
-              <enum>QFrame::Raised</enum>
-             </property>
-             <property name="text">
-              <string>0 psi</string>
-             </property>
-            </widget>
-           </item>
-           <item>
-            <spacer name="horizontalSpacer_14">
-             <property name="orientation">
-              <enum>Qt::Horizontal</enum>
-             </property>
-             <property name="sizeHint" stdset="0">
-              <size>
-               <width>40</width>
-               <height>20</height>
-              </size>
-             </property>
-            </spacer>
-           </item>
-          </layout>
-         </item>
-         <item row="3" column="0">
-          <layout class="QHBoxLayout" name="horizontalLayout_4">
-           <item>
-            <widget class="QLabel" name="label_30">
-             <property name="text">
-              <string>&lt;html&gt;&lt;body&gt;&lt;p&gt; &amp;Delta;P (P1-P2):&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
-             </property>
-            </widget>
-           </item>
-           <item>
-            <widget class="QLabel" name="lbl_dpcalc">
-             <property name="minimumSize">
-              <size>
-               <width>70</width>
-               <height>18</height>
-              </size>
-             </property>
-             <property name="maximumSize">
-              <size>
-               <width>70</width>
-               <height>18</height>
-              </size>
-             </property>
-             <property name="frameShape">
-              <enum>QFrame::Box</enum>
-             </property>
-             <property name="frameShadow">
-              <enum>QFrame::Raised</enum>
-             </property>
-             <property name="text">
-              <string>0 psi</string>
-             </property>
-            </widget>
-           </item>
-           <item>
-            <spacer name="horizontalSpacer_15">
-             <property name="orientation">
-              <enum>Qt::Horizontal</enum>
-             </property>
-             <property name="sizeHint" stdset="0">
-              <size>
-               <width>40</width>
-               <height>20</height>
-              </size>
-             </property>
-            </spacer>
-           </item>
-          </layout>
-         </item>
-        </layout>
        </widget>
        <widget class="QWidget" name="layoutWidget">
         <property name="geometry">
@@ -3010,7 +2782,7 @@ QPushButton:pressed {
 }</string>
              </property>
              <property name="text">
-              <string>Conectar Bomba</string>
+              <string>Ligar Bomba</string>
              </property>
              <property name="shortcut">
               <string/>
@@ -3074,7 +2846,7 @@ QPushButton:pressed {
 }</string>
              </property>
              <property name="text">
-              <string>Desconectar Bomba</string>
+              <string>Desligar Bomba</string>
              </property>
              <property name="shortcut">
               <string/>
@@ -3204,6 +2976,297 @@ QPushButton:pressed {
          </item>
         </layout>
        </widget>
+       <widget class="QWidget" name="layoutWidget">
+        <property name="geometry">
+         <rect>
+          <x>420</x>
+          <y>660</y>
+          <width>644</width>
+          <height>85</height>
+         </rect>
+        </property>
+        <layout class="QGridLayout" name="gridLayout_15">
+         <item row="0" column="0">
+          <widget class="QLabel" name="label_14">
+           <property name="font">
+            <font>
+             <weight>75</weight>
+             <bold>true</bold>
+            </font>
+           </property>
+           <property name="text">
+            <string>Logging</string>
+           </property>
+           <property name="alignment">
+            <set>Qt::AlignCenter</set>
+           </property>
+          </widget>
+         </item>
+         <item row="1" column="0">
+          <layout class="QHBoxLayout" name="horizontalLayout_11">
+           <item>
+            <widget class="QLabel" name="label_13">
+             <property name="text">
+              <string>Comentário:</string>
+             </property>
+            </widget>
+           </item>
+           <item>
+            <widget class="QLineEdit" name="lineEdit"/>
+           </item>
+          </layout>
+         </item>
+         <item row="2" column="0">
+          <layout class="QHBoxLayout" name="horizontalLayout_23">
+           <item>
+            <widget class="QCheckBox" name="checkBox">
+             <property name="text">
+              <string>Enviar Comentário</string>
+             </property>
+             <property name="checked">
+              <bool>false</bool>
+             </property>
+             <property name="autoRepeat">
+              <bool>false</bool>
+             </property>
+             <property name="tristate">
+              <bool>false</bool>
+             </property>
+            </widget>
+           </item>
+           <item>
+            <spacer name="horizontalSpacer_7">
+             <property name="orientation">
+              <enum>Qt::Horizontal</enum>
+             </property>
+             <property name="sizeHint" stdset="0">
+              <size>
+               <width>40</width>
+               <height>20</height>
+              </size>
+             </property>
+            </spacer>
+           </item>
+           <item>
+            <layout class="QHBoxLayout" name="horizontalLayout_22">
+             <item>
+              <widget class="QLabel" name="label_15">
+               <property name="text">
+                <string>Tempo de Experimento:</string>
+               </property>
+              </widget>
+             </item>
+             <item>
+              <widget class="QLabel" name="label_16">
+               <property name="text">
+                <string>00:00:00</string>
+               </property>
+              </widget>
+             </item>
+            </layout>
+           </item>
+           <item>
+            <spacer name="horizontalSpacer_8">
+             <property name="orientation">
+              <enum>Qt::Horizontal</enum>
+             </property>
+             <property name="sizeHint" stdset="0">
+              <size>
+               <width>148</width>
+               <height>20</height>
+              </size>
+             </property>
+            </spacer>
+           </item>
+           <item>
+            <widget class="QPushButton" name="pushButton_calcularporosidade_2">
+             <property name="sizePolicy">
+              <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
+               <horstretch>0</horstretch>
+               <verstretch>0</verstretch>
+              </sizepolicy>
+             </property>
+             <property name="minimumSize">
+              <size>
+               <width>120</width>
+               <height>27</height>
+              </size>
+             </property>
+             <property name="maximumSize">
+              <size>
+               <width>120</width>
+               <height>16777215</height>
+              </size>
+             </property>
+             <property name="font">
+              <font>
+               <family>Segoe UI</family>
+               <pointsize>-1</pointsize>
+               <weight>75</weight>
+               <bold>true</bold>
+              </font>
+             </property>
+             <property name="styleSheet">
+              <string notr="true">QPushButton {
+    background-color: #000000;      
+    color: #ffffff;                 
+    border: 1px solid #c0c0c0;    
+    padding: 5px;                   
+    font-family: &quot;Segoe UI&quot;;        
+    font-size: 12px;
+    font-weight: bold;             
+}
+
+QPushButton:hover {
+    background-color: #ffffff;     
+    color: #000000;                
+    border: 1px solid #000000;     
+}
+
+/* Quando clica: Fica um cinza médio para dar sensação de profundidade */
+QPushButton:pressed {
+    background-color: #333333;      /* Cinza Escuro */
+    color: #ffffff;                 /* Letra volta a ser Branca */
+}</string>
+             </property>
+             <property name="text">
+              <string>Iniciar Experimento</string>
+             </property>
+             <property name="shortcut">
+              <string/>
+             </property>
+             <property name="checkable">
+              <bool>false</bool>
+             </property>
+             <property name="autoDefault">
+              <bool>false</bool>
+             </property>
+             <property name="flat">
+              <bool>false</bool>
+             </property>
+            </widget>
+           </item>
+          </layout>
+         </item>
+        </layout>
+       </widget>
+       <widget class="QWidget" name="">
+        <layout class="QHBoxLayout" name="horizontalLayout_2" stretch="5,0,14">
+         <item>
+          <widget class="QLabel" name="label_35">
+           <property name="minimumSize">
+            <size>
+             <width>16</width>
+             <height>0</height>
+            </size>
+           </property>
+           <property name="text">
+            <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;σ (P2 - P&lt;span style=&quot; vertical-align:sub;&quot;&gt;m&lt;/span&gt;)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QLabel" name="lbl_sigma_eff">
+           <property name="minimumSize">
+            <size>
+             <width>70</width>
+             <height>18</height>
+            </size>
+           </property>
+           <property name="maximumSize">
+            <size>
+             <width>70</width>
+             <height>18</height>
+            </size>
+           </property>
+           <property name="frameShape">
+            <enum>QFrame::Box</enum>
+           </property>
+           <property name="frameShadow">
+            <enum>QFrame::Raised</enum>
+           </property>
+           <property name="text">
+            <string>0 psi</string>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <spacer name="horizontalSpacer_13">
+           <property name="orientation">
+            <enum>Qt::Horizontal</enum>
+           </property>
+           <property name="sizeHint" stdset="0">
+            <size>
+             <width>40</width>
+             <height>20</height>
+            </size>
+           </property>
+          </spacer>
+         </item>
+        </layout>
+       </widget>
+       <widget class="QWidget" name="">
+        <layout class="QHBoxLayout" name="horizontalLayout_3" stretch="14,5,40">
+         <item>
+          <widget class="QLabel" name="label_32">
+           <property name="text">
+            <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;P&lt;/span&gt;&lt;span style=&quot; font-size:9pt; vertical-align:sub;&quot;&gt;m&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QLabel" name="lbl_pmean">
+           <property name="minimumSize">
+            <size>
+             <width>70</width>
+             <height>18</height>
+            </size>
+           </property>
+           <property name="maximumSize">
+            <size>
+             <width>70</width>
+             <height>18</height>
+            </size>
+           </property>
+           <property name="frameShape">
+            <enum>QFrame::Box</enum>
+           </property>
+           <property name="frameShadow">
+            <enum>QFrame::Raised</enum>
+           </property>
+           <property name="text">
+            <string>0 psi</string>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <spacer name="horizontalSpacer_14">
+           <property name="orientation">
+            <enum>Qt::Horizontal</enum>
+           </property>
+           <property name="sizeHint" stdset="0">
+            <size>
+             <width>40</width>
+             <height>20</height>
+            </size>
+           </property>
+          </spacer>
+         </item>
+        </layout>
+       </widget>
+       <widget class="QLabel" name="label_4">
+        <property name="geometry">
+         <rect>
+          <x>1101</x>
+          <y>691</y>
+          <width>59</width>
+          <height>16</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; text-decoration: underline;&quot;&gt;Pressões&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+        </property>
+       </widget>
       </widget>
       <widget class="QWidget" name="Graficos">
        <widget class="QWidget" name="layoutWidget">
@@ -3272,6 +3335,17 @@ QPushButton:pressed {
      </widget>
     </item>
    </layout>
+   <widget class="QWidget" name="">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>0</y>
+      <width>100</width>
+      <height>30</height>
+     </rect>
+    </property>
+    <layout class="QGridLayout" name="gridLayout_6"/>
+   </widget>
    <zorder>Paginas</zorder>
    <zorder>frame</zorder>
   </widget>
