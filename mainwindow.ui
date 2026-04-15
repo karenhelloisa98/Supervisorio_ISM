@@ -521,7 +521,7 @@ QPushButton:hover{
              </size>
             </property>
             <property name="text">
-             <string>DTP1</string>
+             <string>DP</string>
             </property>
             <property name="alignment">
              <set>Qt::AlignCenter</set>
@@ -529,7 +529,7 @@ QPushButton:hover{
            </widget>
           </item>
           <item row="1" column="0">
-           <widget class="QLabel" name="DP1">
+           <widget class="QLabel" name="DP">
             <property name="minimumSize">
              <size>
               <width>90</width>
@@ -1729,12 +1729,12 @@ background-color: rgb(0, 85, 255);</string>
           <set>Qt::AlignCenter</set>
          </property>
         </widget>
-        <widget class="QWidget" name="layoutWidget">
+        <widget class="QWidget" name="">
          <property name="geometry">
           <rect>
-           <x>650</x>
+           <x>651</x>
            <y>130</y>
-           <width>193</width>
+           <width>167</width>
            <height>22</height>
           </rect>
          </property>
@@ -2476,7 +2476,7 @@ QPushButton:pressed {
                   </widget>
                  </item>
                  <item>
-                  <widget class="QLabel" name="label_resultado_calculo_permeabilidade">
+                  <widget class="QLabel" name="lbl_k">
                    <property name="minimumSize">
                     <size>
                      <width>70</width>
@@ -3150,11 +3150,11 @@ QPushButton:pressed {
          </item>
         </layout>
        </widget>
-       <widget class="QWidget" name="">
+       <widget class="QWidget" name="layoutWidget">
         <property name="geometry">
          <rect>
           <x>1100</x>
-          <y>691</y>
+          <y>660</y>
           <width>193</width>
           <height>78</height>
          </rect>

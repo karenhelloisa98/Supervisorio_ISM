@@ -53,16 +53,17 @@ class TelaPrincipal(QMainWindow):
             self.P1,  
             self.P2,  
             self.P3,  
-            self.P4,   
+            self.P4,
+            self.DP
         ]
 
         self.status_labels = [
             self.P1,  
             self.P2,  
             self.P3,  
-            self.P4   
+            self.P4,
+            self.DP
         ]
-
 
         # ===== Memória dos últimos dados DAQ =====
         self.latest_eng_corr: Dict[str, Optional[float]] = {}
@@ -348,43 +349,46 @@ class TelaPrincipal(QMainWindow):
         idx = self.t[-1] + 1 if len(self.t) else 0
         self.t.append(idx)
 
-        # ===== Atualiza cards dos canais =====
-        for i in range(self.n):
-            val = eng_corr[i] if i < len(eng_corr) else None
-
+       # ===== Atualiza labels dos canais (Proteção contra IndexError) =====
+        # Usamos o min() para garantir que o loop não ultrapasse o número de labels na tela
+        num_iterações = min(len(eng_corr), len(self.value_labels))
+        
+        for i in range(num_iterações):
+            val = eng_corr[i]
+            
+            # Atualiza o texto do valor
             if val is None:
                 self.value_labels[i].setText("OFFLINE")
             else:
-                self.value_labels[i].setText(f"{val:.2f}")
+                self.value_labels[i].setText(f"{val:.2f} psi") 
 
-            st = status[i] if i < len(status) else "OK"
+            # Atualiza o estilo visual (Status)
+            if i < len(status):
+                st = status[i]
+                if st == "OK":
+                    self.status_labels[i].setObjectName("TagOK")
+                elif st == "OPEN_LOOP":
+                    self.status_labels[i].setObjectName("TagWarn")
+                else:
+                    self.status_labels[i].setObjectName("TagBad")
 
-            if st == "OK":
-                self.status_labels[i].setObjectName("TagOK")
-            elif st == "OPEN_LOOP":
-                self.status_labels[i].setObjectName("TagWarn")
-            else:
-                self.status_labels[i].setObjectName("TagBad")
-
-            self.status_labels[i].style().unpolish(self.status_labels[i])
-            self.status_labels[i].style().polish(self.status_labels[i])
+                # Força o CSS do PyQt a atualizar a cor imediatamente
+                self.status_labels[i].style().unpolish(self.status_labels[i])
+                self.status_labels[i].style().polish(self.status_labels[i])
 
         # ===== Cálculos auxiliares =====
         P1 = self.latest_eng_corr.get("P1")
         P2 = self.latest_eng_corr.get("P2")
-        DP1 = self.latest_eng_corr.get("DP1")
+        DP = self.latest_eng_corr.get("DP")
     
         x = list(self.t)
-
-        # Log para você ver no terminal do VS Code se os valores estão chegando aqui
-        print(f"DEBUG: P1={P1}, P2={P2}")
 
         if P1 is not None and P2 is not None:
             dpcalc = P2 - P1
             pmean = (P1 + P2) / 2.0
             sigma_eff = P2 - pmean
 
-            self.lbl_dpcalc.setText(f"{dpcalc:.2f} psi")
+            self.dpcalc.setText(f"{dpcalc:.2f} psi")
             self.lbl_pmean.setText(f"{pmean:.2f} psi")
             self.lbl_sigma_eff.setText(f"{sigma_eff:.2f} psi")
 
@@ -393,7 +397,7 @@ class TelaPrincipal(QMainWindow):
                 self.dp_data.append(dpcalc) # Adiciona ao histórico de DP
                 self.curva_dp.setData(x, list(self.dp_data))
         else:
-            self.lbl_dpcalc.setText("-- psi")
+            self.dpcalc.setText("-- psi")
             self.lbl_pmean.setText("-- psi")
             self.lbl_sigma_eff.setText("-- psi")
 
@@ -403,7 +407,6 @@ class TelaPrincipal(QMainWindow):
             self.lbl_temp.setText(f"{temp_value:.2f} °C")
             self.temp_t.append(idx)
             self.temp_y.append(temp_value)
-
             if hasattr(self, "curva_temp"):
                 self.curva_temp.setData(list(self.temp_t), list(self.temp_y))
 
@@ -412,7 +415,6 @@ class TelaPrincipal(QMainWindow):
         if k_value is not None:
             self.k_t.append(idx)
             self.k_y.append(k_value)
-
             if hasattr(self, "curva_k"):
                 self.curva_k.setData(list(self.k_t), list(self.k_y))
 
