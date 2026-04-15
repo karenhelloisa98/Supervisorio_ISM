@@ -42,11 +42,27 @@ class TelaPrincipal(QMainWindow):
         self.timer_relogio.timeout.connect(self.atualizar_data_hora)
         self.timer_relogio.start(1000)
         self.atualizar_data_hora()
+        self.timer_daq = QTimer(self)
 
         # ===== Canais =====
         self.channel_names = channel_names
         self.name_to_index: Dict[str, int] = {n: i for i, n in enumerate(channel_names)}
         self.n = len(channel_names)
+
+        self.value_labels = [ #Mostrará os dados nos canais
+            self.P1,  
+            self.P2,  
+            self.P3,  
+            self.P4,   
+        ]
+
+        self.status_labels = [
+            self.P1,  
+            self.P2,  
+            self.P3,  
+            self.P4   
+        ]
+
 
         # ===== Memória dos últimos dados DAQ =====
         self.latest_eng_corr: Dict[str, Optional[float]] = {}
@@ -352,16 +368,18 @@ class TelaPrincipal(QMainWindow):
 
             self.status_labels[i].style().unpolish(self.status_labels[i])
             self.status_labels[i].style().polish(self.status_labels[i])
-            self.status_labels[i].setText(st)
 
         # ===== Cálculos auxiliares =====
         P1 = self.latest_eng_corr.get("P1")
         P2 = self.latest_eng_corr.get("P2")
         DP1 = self.latest_eng_corr.get("DP1")
-
+    
         x = list(self.t)
 
-        if P1 is not None and P2 is not None and DP1 is not None:
+        # Log para você ver no terminal do VS Code se os valores estão chegando aqui
+        print(f"DEBUG: P1={P1}, P2={P2}")
+
+        if P1 is not None and P2 is not None:
             dpcalc = P2 - P1
             pmean = (P1 + P2) / 2.0
             sigma_eff = P2 - pmean
@@ -408,3 +426,5 @@ class TelaPrincipal(QMainWindow):
         if hasattr(self, "curves"):
             for i in range(self.n):
                 self.curves[i].setData(x, list(self.y[i]))
+        
+        

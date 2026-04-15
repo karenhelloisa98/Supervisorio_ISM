@@ -5,11 +5,11 @@
     "overrange_high_mA": 21.0
   },
   "channels": [
-    { "name": "P1",  "physical": "cDAQ1Mod1/ai12", "lrv": 0, "urv": 10000, "unit": "bar" },
-    { "name": "P2",  "physical": "cDAQ1Mod1/ai13", "lrv": 0, "urv": 10000, "unit": "bar" },
-    { "name": "P3",  "physical": "cDAQ1Mod1/ai14", "lrv": 0, "urv": 10000, "unit": "bar" },
-    { "name": "P4",  "physical": "cDAQ1Mod1/ai15", "lrv": 0, "urv": 10000, "unit": "bar" },
-    { "name": "DP",  "physical": "cDAQ1Mod1/ai11", "lrv": 0, "urv": 200,   "unit": "bar" }
+    { "name": "P1",  "physical": "cDAQ1Mod3/ai9", "lrv": 0, "urv": 10000, "unit": "bar" },
+    { "name": "P2",  "physical": "cDAQ1Mod3/ai15", "lrv": 0, "urv": 10000, "unit": "bar" },
+    { "name": "P3",  "physical": "cDAQ1Mod3/ai13", "lrv": 0, "urv": 10000, "unit": "bar" },
+    { "name": "P4",  "physical": "cDAQ1Mod3/ai11", "lrv": 0, "urv": 10000, "unit": "bar" },
+    { "name": "DP",  "physical": "cDAQ1Mod3/ai5", "lrv": 0, "urv": 200,   "unit": "bar" }
   ],
   "csv": {
     "enabled": true,

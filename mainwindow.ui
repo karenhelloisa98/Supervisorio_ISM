@@ -549,7 +549,7 @@ QPushButton:hover{
              <enum>QFrame::Raised</enum>
             </property>
             <property name="text">
-             <string>0 psi</string>
+             <string/>
             </property>
            </widget>
           </item>
@@ -676,7 +676,7 @@ background-color: rgb(0, 85, 255);</string>
              <enum>QFrame::Raised</enum>
             </property>
             <property name="text">
-             <string>0 psi</string>
+             <string/>
             </property>
            </widget>
           </item>
@@ -735,7 +735,7 @@ background-color: rgb(0, 85, 255);</string>
              <enum>QFrame::Raised</enum>
             </property>
             <property name="text">
-             <string>0 psi</string>
+             <string/>
             </property>
            </widget>
           </item>
@@ -1155,7 +1155,7 @@ background-color: rgb(0, 85, 255);</string>
                <enum>QFrame::Raised</enum>
               </property>
               <property name="text">
-               <string>0 ºC</string>
+               <string/>
               </property>
              </widget>
             </item>
@@ -1468,7 +1468,7 @@ background-color: rgb(0, 85, 255);</string>
              <enum>QFrame::Raised</enum>
             </property>
             <property name="text">
-             <string>0 psi</string>
+             <string/>
             </property>
            </widget>
           </item>
@@ -1602,7 +1602,7 @@ background-color: rgb(0, 85, 255);</string>
              <enum>QFrame::Raised</enum>
             </property>
             <property name="text">
-             <string>0 psi</string>
+             <string/>
             </property>
            </widget>
           </item>
@@ -1729,7 +1729,7 @@ background-color: rgb(0, 85, 255);</string>
           <set>Qt::AlignCenter</set>
          </property>
         </widget>
-        <widget class="QWidget" name="">
+        <widget class="QWidget" name="layoutWidget">
          <property name="geometry">
           <rect>
            <x>650</x>
@@ -1742,12 +1742,12 @@ background-color: rgb(0, 85, 255);</string>
           <item>
            <widget class="QLabel" name="label_30">
             <property name="text">
-             <string>&lt;html&gt;&lt;body&gt;&lt;p&gt; &amp;Delta;P (P1-P2):&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+             <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;dpcalc:&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
             </property>
            </widget>
           </item>
           <item>
-           <widget class="QLabel" name="lbl_dpcalc">
+           <widget class="QLabel" name="dpcalc">
             <property name="minimumSize">
              <size>
               <width>70</width>
@@ -1767,7 +1767,7 @@ background-color: rgb(0, 85, 255);</string>
              <enum>QFrame::Raised</enum>
             </property>
             <property name="text">
-             <string>0 psi</string>
+             <string/>
             </property>
            </widget>
           </item>
@@ -1834,7 +1834,7 @@ background-color: rgb(0, 85, 255);</string>
         <zorder>line_41</zorder>
         <zorder>label_69</zorder>
         <zorder>label_70</zorder>
-        <zorder></zorder>
+        <zorder>layoutWidget</zorder>
        </widget>
        <widget class="QWidget" name="widget_2" native="true">
         <property name="geometry">
@@ -1845,7 +1845,7 @@ background-color: rgb(0, 85, 255);</string>
           <height>101</height>
          </rect>
         </property>
-        <widget class="QWidget" name="">
+        <widget class="QWidget" name="layoutWidget">
          <property name="geometry">
           <rect>
            <x>0</x>
@@ -3151,121 +3151,131 @@ QPushButton:pressed {
         </layout>
        </widget>
        <widget class="QWidget" name="">
-        <layout class="QHBoxLayout" name="horizontalLayout_2" stretch="5,0,14">
-         <item>
-          <widget class="QLabel" name="label_35">
-           <property name="minimumSize">
-            <size>
-             <width>16</width>
-             <height>0</height>
-            </size>
-           </property>
-           <property name="text">
-            <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;σ (P2 - P&lt;span style=&quot; vertical-align:sub;&quot;&gt;m&lt;/span&gt;)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
-           </property>
-          </widget>
-         </item>
-         <item>
-          <widget class="QLabel" name="lbl_sigma_eff">
-           <property name="minimumSize">
-            <size>
-             <width>70</width>
-             <height>18</height>
-            </size>
-           </property>
-           <property name="maximumSize">
-            <size>
-             <width>70</width>
-             <height>18</height>
-            </size>
-           </property>
-           <property name="frameShape">
-            <enum>QFrame::Box</enum>
-           </property>
-           <property name="frameShadow">
-            <enum>QFrame::Raised</enum>
-           </property>
-           <property name="text">
-            <string>0 psi</string>
-           </property>
-          </widget>
-         </item>
-         <item>
-          <spacer name="horizontalSpacer_13">
-           <property name="orientation">
-            <enum>Qt::Horizontal</enum>
-           </property>
-           <property name="sizeHint" stdset="0">
-            <size>
-             <width>40</width>
-             <height>20</height>
-            </size>
-           </property>
-          </spacer>
-         </item>
-        </layout>
-       </widget>
-       <widget class="QWidget" name="">
-        <layout class="QHBoxLayout" name="horizontalLayout_3" stretch="14,5,40">
-         <item>
-          <widget class="QLabel" name="label_32">
-           <property name="text">
-            <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;P&lt;/span&gt;&lt;span style=&quot; font-size:9pt; vertical-align:sub;&quot;&gt;m&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
-           </property>
-          </widget>
-         </item>
-         <item>
-          <widget class="QLabel" name="lbl_pmean">
-           <property name="minimumSize">
-            <size>
-             <width>70</width>
-             <height>18</height>
-            </size>
-           </property>
-           <property name="maximumSize">
-            <size>
-             <width>70</width>
-             <height>18</height>
-            </size>
-           </property>
-           <property name="frameShape">
-            <enum>QFrame::Box</enum>
-           </property>
-           <property name="frameShadow">
-            <enum>QFrame::Raised</enum>
-           </property>
-           <property name="text">
-            <string>0 psi</string>
-           </property>
-          </widget>
-         </item>
-         <item>
-          <spacer name="horizontalSpacer_14">
-           <property name="orientation">
-            <enum>Qt::Horizontal</enum>
-           </property>
-           <property name="sizeHint" stdset="0">
-            <size>
-             <width>40</width>
-             <height>20</height>
-            </size>
-           </property>
-          </spacer>
-         </item>
-        </layout>
-       </widget>
-       <widget class="QLabel" name="label_4">
         <property name="geometry">
          <rect>
-          <x>1101</x>
+          <x>1100</x>
           <y>691</y>
-          <width>59</width>
-          <height>16</height>
+          <width>193</width>
+          <height>78</height>
          </rect>
         </property>
-        <property name="text">
-         <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; text-decoration: underline;&quot;&gt;Pressões&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
-        </property>
+        <layout class="QGridLayout" name="gridLayout">
+         <item row="0" column="0">
+          <widget class="QLabel" name="label_4">
+           <property name="text">
+            <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; text-decoration: underline;&quot;&gt;Pressões&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+           </property>
+          </widget>
+         </item>
+         <item row="1" column="0">
+          <layout class="QVBoxLayout" name="verticalLayout_2">
+           <item>
+            <layout class="QHBoxLayout" name="horizontalLayout_3" stretch="14,5,40">
+             <item>
+              <widget class="QLabel" name="label_32">
+               <property name="text">
+                <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:9pt;&quot;&gt;P&lt;/span&gt;&lt;span style=&quot; font-size:9pt; vertical-align:sub;&quot;&gt;m&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+               </property>
+              </widget>
+             </item>
+             <item>
+              <widget class="QLabel" name="lbl_pmean">
+               <property name="minimumSize">
+                <size>
+                 <width>70</width>
+                 <height>18</height>
+                </size>
+               </property>
+               <property name="maximumSize">
+                <size>
+                 <width>70</width>
+                 <height>18</height>
+                </size>
+               </property>
+               <property name="frameShape">
+                <enum>QFrame::Box</enum>
+               </property>
+               <property name="frameShadow">
+                <enum>QFrame::Raised</enum>
+               </property>
+               <property name="text">
+                <string>0 psi</string>
+               </property>
+              </widget>
+             </item>
+             <item>
+              <spacer name="horizontalSpacer_14">
+               <property name="orientation">
+                <enum>Qt::Horizontal</enum>
+               </property>
+               <property name="sizeHint" stdset="0">
+                <size>
+                 <width>40</width>
+                 <height>20</height>
+                </size>
+               </property>
+              </spacer>
+             </item>
+            </layout>
+           </item>
+           <item>
+            <layout class="QHBoxLayout" name="horizontalLayout_2" stretch="5,0,14">
+             <item>
+              <widget class="QLabel" name="label_35">
+               <property name="minimumSize">
+                <size>
+                 <width>16</width>
+                 <height>0</height>
+                </size>
+               </property>
+               <property name="text">
+                <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;σ (P2 - P&lt;span style=&quot; vertical-align:sub;&quot;&gt;m&lt;/span&gt;)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+               </property>
+              </widget>
+             </item>
+             <item>
+              <widget class="QLabel" name="lbl_sigma_eff">
+               <property name="minimumSize">
+                <size>
+                 <width>70</width>
+                 <height>18</height>
+                </size>
+               </property>
+               <property name="maximumSize">
+                <size>
+                 <width>70</width>
+                 <height>18</height>
+                </size>
+               </property>
+               <property name="frameShape">
+                <enum>QFrame::Box</enum>
+               </property>
+               <property name="frameShadow">
+                <enum>QFrame::Raised</enum>
+               </property>
+               <property name="text">
+                <string>0 psi</string>
+               </property>
+              </widget>
+             </item>
+             <item>
+              <spacer name="horizontalSpacer_13">
+               <property name="orientation">
+                <enum>Qt::Horizontal</enum>
+               </property>
+               <property name="sizeHint" stdset="0">
+                <size>
+                 <width>40</width>
+                 <height>20</height>
+                </size>
+               </property>
+              </spacer>
+             </item>
+            </layout>
+           </item>
+          </layout>
+         </item>
+        </layout>
        </widget>
       </widget>
       <widget class="QWidget" name="Graficos">
@@ -3335,7 +3345,7 @@ QPushButton:pressed {
      </widget>
     </item>
    </layout>
-   <widget class="QWidget" name="">
+   <widget class="QWidget" name="layoutWidget">
     <property name="geometry">
      <rect>
       <x>0</x>
@@ -3346,6 +3356,7 @@ QPushButton:pressed {
     </property>
     <layout class="QGridLayout" name="gridLayout_6"/>
    </widget>
+   <zorder>layoutWidget</zorder>
    <zorder>Paginas</zorder>
    <zorder>frame</zorder>
   </widget>
